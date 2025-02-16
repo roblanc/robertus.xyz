@@ -3,7 +3,7 @@ title: "Upgrading Quartz"
 ---
 
 > [!note]
-> This is specifically a guide for upgrading Quartz 4 version to a more recent update. If you are coming from Quartz 3, check out the [[migrating from Quartz 3|migration guide]] for more info.
+> This is specifically a guide for upgrading Quartz 4 version to a more recent update. If you are coming from Quartz 3, check out the [[Stai asa cumetreeee|migration guide]] for more info.
 
 To fetch the latest Quartz updates, simply run
 
