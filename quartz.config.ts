@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://67b22bc20f57c8cea65b55ab--gleaming-stroopwafel-cfd6e8.netlify.app",
+    baseUrl: "https://robertus.netlify.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
