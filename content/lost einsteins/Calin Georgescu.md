@@ -1,0 +1,2 @@
+- this case will go down the rabbit hole of history
+- claimed to be [[RFK Junior]] friend --- obviously connected to the oversees stuff through the gov. 
