@@ -1,6 +1,5 @@
 ---
 title: The yellow room
-date: 2025-02-16
 description: a story about a yellow room
 tags:
   - blog
