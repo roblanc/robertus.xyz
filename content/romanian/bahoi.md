@@ -4,6 +4,11 @@ date: 2025-02-16
 description: "O scurtă postare despre Bahoi."
 tags: [blog]
 ---
+[https://youtu.be/DDrQfxIZwxQ?si=WaiOAhKFwXFvca5Q](https://youtu.be/DDrQfxIZwxQ?si=WaiOAhKFwXFvca5Q)
+
+
+
+
 # Daniel „Bahoi” Alexe: Un fenomen cultural în era digitală a României
 
 Daniel „Bahoi” Alexe a emergat ca una dintre cele mai intrigante figuri ale culturii internetului românesc, un personaj complex a cărui operă amatoristică a devenit subiectul documentarului *YouTube Bazaar* (2015) regizat de Dan Chișu. Acest tânăr de etnie romă din comuna Lumina, județul Constanța, și-a câștigat faima prin videoclipuri virale ce combină elemente de aventură, educație informală și comentariu social, devenind un simbol al posibilităților democratizatoare ale platformelor online. Analiza sa de către experți din domeniile mass-media, sociologie și arte vizuale dezvăluie o prismă unică pentru înțelegerea transformărilor culturale în România postcomunistă.
