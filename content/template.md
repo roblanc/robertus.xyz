@@ -6,3 +6,4 @@ tags:
   - blog
 ---
 A template. 
+A template. 
