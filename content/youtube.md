@@ -1,11 +1,16 @@
 ---
-title: "YouTube"
+title: YouTube
 date: 2025-02-16
-description: "list"
-tags: [blog]
+description: list
+tags:
+  - youtube
 ---
 
-a list of all my youtube videos
+an incomplete list of all of my YouTube videos.
+
+
+
+
 
 1. [Empiricism in 100 Seconds - YouTube](https://www.youtube.com/watch?v=Iq1nrl69BdI)
 2. [Communism in 100 Seconds - YouTube](https://www.youtube.com/watch?v=ZwYSfKjfb7g)
