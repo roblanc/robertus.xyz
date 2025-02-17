@@ -9,10 +9,9 @@ tags:
 
 Age: 71 as of 2025
 
-
 - RKF takes a lot of vitamins (which are less regulated than foods btw) so if you take weird stuff that you do not remember their name --- do the math 
 - he is on TRT
--[[Georgescu]]
+- while there are elements of truth in most things he says, he misses the mark in explaining the obesity epidemic by a good margin; same as [[Calin Georgescu]]
 
 - [Exercise Scientists Critiques RFK's Controversial Health Claims](https://youtu.be/hPJcpmsKayE?si=v13Qr-qTbYZmLI3A)
 	- good intentions but low brain maybe; prolly because of conspiracy stuff in his head; do not forget that this guy had a dead animal in his trunk
