@@ -1,7 +1,10 @@
+---
+title: China
+description: Notes on China
+---
+
+
 [China needs to prove democracy is bad](https://www.youtube.com/watch?si=RJ4octvF9ZQ8rWUt&v=ALHPXW0RJ04&feature=youtu.be)
-
-
-
 #### **On their version of [[TikTok]]**
 - I had the idea to check out Douyin, the Chinese version of TikTok, to see how it differed from American TikTok. I had heard China cracks down on its version of the app, making educational videos appear and suppressing subversive content.
 - That really was not the case from what I saw, though. While I saw some cool stuff, like cooking and video game content, I was quickly served up some creepy videos, including animal abuse and some sexual content.
