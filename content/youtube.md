@@ -10,11 +10,11 @@ an incomplete list of all of my YouTube videos.
 need to update this stuff.
 
 [[Postmodernism in ~ 100 seconds]]
-	[video link](https://www.youtube.com/watch?v=e_prNZsyvC4)
+- [video link](https://www.youtube.com/watch?v=e_prNZsyvC4)
 
 
 [[Every MAJOR Philosophy Book Explained in 2 Words]]
-	[video link](https://www.youtube.com/watch?v=VHRuuYZr4to)
+- [video link](https://www.youtube.com/watch?v=VHRuuYZr4to)
 
 1. [Empiricism in 100 Seconds - YouTube](https://www.youtube.com/watch?v=Iq1nrl69BdI)
 2. [Communism in 100 Seconds - YouTube](https://www.youtube.com/watch?v=ZwYSfKjfb7g)
