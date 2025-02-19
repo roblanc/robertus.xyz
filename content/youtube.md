@@ -9,6 +9,8 @@ tags:
 an incomplete list of all of my YouTube videos.
 need to update this stuff.
 
+[[Postmodernism in ~ 100 seconds]]
+	[video link](https://www.youtube.com/watch?v=e_prNZsyvC4)
 
 
 
