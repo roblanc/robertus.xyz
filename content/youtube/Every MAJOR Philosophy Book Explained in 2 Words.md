@@ -1,0 +1,29 @@
+The World as Will and Representation by Arthur Schopenhauer – irrational will 
+A Treatise of Human Nature by David Hume – empirical skepticism
+Summa Theologica by Thomas Aquinas – faithful reason
+Tao Te Ching by Laozi – effortless non-action 
+Fear and Trembling by Søren Kierkegaard - leap of faith / faith crisis 
+Anti-Oedipus: Capitalism and Schizophrenia by Deleuze & Guattari – capitalist psychosis
+Discourse on the Method by René Descartes  – cognitive cartography
+Critique of Pure Reason by Immanuel Kant –  perceptual boundaries 
+Being and Time by Martin Heidegger – ontological inquiry 
+The Complete Works of Plato – dialectical unfolding
+The Analects by Confucius - moral order
+Principia Ethica by G.E. Moore - moral epistemology
+Metaphysics by Aristotle – first philosophy
+Beyond Good and Evil by Friedrich Nietzsche – value revaluation
+Meditations by Marcus Aurelius – inner order
+Ethics by Baruch Spinoza - substance ethics
+Utilitarianism by John Stuart Mill - happiness calculus
+Tractatus Logico-Philosophicus by Ludwig Wittgenstein - linguistic limits
+The Order of Things by Michel Foucault - knowledge regimes
+The Dhammapada - Tranquility Engineering
+Nicomachean Ethics by Aristotle - virtue training
+Bhagavad Gita – detachment action
+The Phenomenology of Spirit by Friedrich Hegel – historical consciousness
+The Social Contract by Jean-Jacques Rousseau - sovereign will
+The Structure of Scientific Revolutions by Thomas Kuhn - scientific discontinuity
+The Myth of Sisyphus by Camus  - absurd persistence 
+Candide by Voltaire – Enlightenment skepticism
+The Republic by Plato – Ideal Justice   philosopher king 
+Thus Spoke Zarathustra by Friedrich Nietzsche – god dead
