@@ -15,11 +15,11 @@ Don’t forget: [[Life will always be good]]
 
 
 **Metascience/education**
-
+*tbd*
 
 
 **Philosophy**
-
+*tbd*
 
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
