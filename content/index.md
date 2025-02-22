@@ -10,13 +10,13 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 I can tell you about [[The yellow room]]
 or you can check my [[notes/notes]]
 
-**Metascience/education**
+### Metascience/education
 - [[Superstimuli]]: Are we amusing ourselves to death?
 
-**Philosophy**
+### Philosophy
 [[Life will always be good]]
 
-**Productivity**
+### Productivity
 - [[Productivity A-Z Cheatsheet]]
 - [[Execution is easy. Ideas are everything.]]
 #### Connect
