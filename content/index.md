@@ -10,11 +10,12 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 I can tell you about [[The yellow room]]
 or you can check my [[notes/notes]]
 
-### Metascience/education
+### Metascience
 - [[Superstimuli]]: Are we amusing ourselves to death?
+- [[How to read higher quality books]]
 
 ### Philosophy
-[[Life will always be good]]
+- [[Life will always be good]]
 
 ### Productivity
 - [[Productivity A-Z Cheatsheet]]
