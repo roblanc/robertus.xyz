@@ -11,15 +11,14 @@ I can tell you about [[The yellow room]]
 or you can check my [[notes/notes]]
 
 **Metascience/education**
-- [[Superstimuli]]
-- 
-
+- [[Superstimuli]]: Are we amusing ourselves to death?
 
 **Philosophy**
 [[Life will always be good]]
 
 **Productivity**
 - [[Productivity A-Z Cheatsheet]]
+- [[Execution is easy. Ideas are everything.]]
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 
