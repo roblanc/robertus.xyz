@@ -9,18 +9,17 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 
 I can tell you about [[The yellow room]]
 or you can check my [[notes/notes]]
-Or perhaps I should introduce myself first?
-
-Don’t forget: [[Life will always be good]]
-
 
 **Metascience/education**
-*tbd*
+- [[Superstimuli]]
+- 
 
 
 **Philosophy**
-*tbd*
+[[Life will always be good]]
 
+**Productivity**
+- [[Productivity A-Z Cheatsheet]]
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 

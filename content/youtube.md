@@ -8,7 +8,7 @@ tags:
 
 1. [Kali Yuga in ~ 100 seconds](https://youtu.be/f9mEsTUfD10?si=Swh96hESdHxpA0Lw)
 2. [Every MAJOR Philosophy Book Explained in 2 Words](https://youtu.be/VHRuuYZr4to?si=tajkfBHDowd5TENK)
-3. [Postmodernism in ~ 100 seconds](https://youtu.be/e_prNZsyvC4?si=ELltnxveh8XQSW5e
+3. [Postmodernism in ~ 100 seconds](https://youtu.be/e_prNZsyvC4?si=ELltnxveh8XQSW5e)
 4. [Albert Camus in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=i2C1_KO0dLw)
 5. [Doomerism in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=9o7CJi0NOSc&t=1s)
 6. [Neurocapitalism in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=GYCFUNYGo8A&t=8s)
