@@ -1,0 +1,1 @@
+”The point of propaganda is not to make people believe it. It is to foster cynicism so that we don’t know what to believe and come to believe that nothing is true, no facts are reliable, and the world is simply a battlefield for partisan ideas. Because people who believe nothing accomplish nothing" - Hannah Arendt
