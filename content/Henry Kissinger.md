@@ -1,0 +1,1 @@
+It may be dangerous to be America's enemy, but to be America's friend is fatal.
