@@ -10,6 +10,7 @@ Notes based on this: Jeffrey Sachs Brings Real Politics to the EU Parliament
 - thinks Europe needs a real policy
 - thinks the Israel lobby dominates US foreign policy & [[Benjamin Netanyahu]] a war criminal
 	- similar to [[President Sunday]]
+- says that [[China]] is not an enemy but a success story /// mkay? I remember that the Chinese were hypercapitalistic and focused on the "[One China Policy](https://en.wikipedia.org/wiki/One_China#:~:text=The%20One%20China%20principle%20is,an%20inalienable%20part%20of%20China)" and do not even mind the surveillance 
 
 [Sachs studied economics at Harvard and is currently working as the Director of the Center for Sustainable Development at Columbia University and as the President of the UN Sustainable Development Solutions Network.](https://x.com/P_Kallioniemi/status/1652683683969527810)
 
