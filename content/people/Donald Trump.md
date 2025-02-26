@@ -1,0 +1,1 @@
+[Donald Trump Gaza Video \| Trump Posts Video Of AI-Generated ‘Future Of Gaza’ After US Takeover - YouTube](https://youtu.be/G5HlrkLQWnc?si=FJdRyXURFHCRyExQ)

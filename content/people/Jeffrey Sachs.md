@@ -4,8 +4,8 @@ Notes based on this: [Jeffrey Sachs Brings Real Politics to the EU Parliament](h
 - thinks that the 2003 Irak war was planned by [[Benjamin Netanyahu]] and the Pentagon, a war for Israel
 	- thinks that was the last time that Europe had a voice
 - Europe lost its voice in 2008
-- [[Trump]] is an arms salesmen --- also said that Vance told Europe not to even think having their own AI technology
-- [[Trump]] does not like the losing hand, so this is why most likely this war will end 
+- [[Donald Trump]] is an arms salesmen --- also said that Vance told Europe not to even think having their own AI technology
+- [[Donald Trump]] does not like the losing hand, so this is why most likely this war will end 
 - he believes in [[climate change]]
 - he believes that the [OSCE](https://www.osce.org/) is the proper framework for European security
 - says that most European leaders do not want to hear anything from him (I wonder why?)
