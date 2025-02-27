@@ -1,0 +1,3 @@
+[his Bluesky profile](https://bsky.app/profile/vgr.bsky.social)
+
+Venkatesh Rao has effectively left X (formerly Twitter). In a recent update, he mentioned that he has "temporarily retired from the public social web" and is no longer focused on building "network capital" or cultivating reach on social media platforms. Instead, he prefers to engage in smaller, more private spaces and has expressed disinterest in the current state of social media, describing it as a "grim death march" through a challenging environment. He is content to maintain his existing connections without aggressively pursuing a larger audience or presence online. 
