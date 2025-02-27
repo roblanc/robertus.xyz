@@ -1,3 +1,6 @@
+[Destiny Laughs at so called 'Fraud' Receipts Released by DOGE](https://youtu.be/Fac-2JGO1S4?si=_xSKsSEwoHx3dAaV)
+
+[](https://www.youtube.com/@dggvault)
 - the biggest account on X that spreads misinformation
 	- he changed the algo to counter that as he thinks that the things he is spreading are true e.g. he links a mainstream media article about X topic and says that "this is bad" --- once community notes point out that "this is not bad and here's why" --- he blames the community notes for being gamed and goes on on changing the community notes
 - went a little bit crazy once he acquired Twitter and made it X

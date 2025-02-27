@@ -1,0 +1,12 @@
+[Techno-Feudalism in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=_zyLr1Jeo0c&pp=ygUPVGVjaG5vZmV1ZGFsaXNt)
+
+
+During feudal times, a serf was a laborer bound to the land, treated as an extension of the property itself, and transferred along with it in the event of a sale. Merchants were involved in buying and selling goods for profit, but their economic activities were largely overshadowed by the rents paid to the feudal lords who owned the land. 
+
+Today we labor on digital platforms owned by tech giants and instead of crops, we surrender our data, labor, and a cut of our earnings. Modern "technofeudal" lords wield influence and control over our social, economic, and even intellectual lives to a degree unimaginable by their predecessors. During the 2025 U.S. presidential inauguration, you could see who these lords are and how good they are at adapting to various circumstances to maintain their digital domains. The term technofeudalism has its roots in the evolving critiques of modern capitalism, particularly in the context of the digital economy and was roughly coined by Yanis Varoufakis, a prominent economist and former Greek Finance Minister.
+
+Amazon has become a marketplace for third-party sellers; Apple and Google dominate app distribution for apps created by others; Uber connects riders with drivers using their own vehicles; and Patreon acts as an intermediary between creators and their patrons, taking a cut of their earnings. Social media platforms monetize user-generated content and attention by selling advertising, creating a form of "virtual serfdom."
+
+In China they go even further with WeChat, and app that has evolved into a comprehensive platform encompassing various online activities, extracting revenue from nearly all online interactions. This resembles feudal fiefdoms, with the modern day owners extracting "rents" rather than operating as traditional capitalist businesses.
+
+Similarly to how historical coal miners purchased their own tools and Uber drivers use their own vehicles, microworkers must provide their own computers and phones.  Many major tech companies now primarily function as platforms that facilitate transactions between users, rather than directly producing goods or services. In this analogy users are likened to serfs, working within digital platforms that are controlled by these corporations.
