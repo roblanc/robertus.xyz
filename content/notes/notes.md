@@ -2,3 +2,4 @@ Writing is _crystalized thinking_. Writing is as important as speaking as a med
 
 
 [[Superstimuli]]: Are we amusing ourselves to death?  
+[[A Hannibalistic approach to life]]

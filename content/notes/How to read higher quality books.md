@@ -42,7 +42,7 @@ A quick way to assert someone’s credibility and respectability in [The Academi
 
 There are many ways to think about science, the precision of its findings, and how much confidence we should have in them. I oftentimes think of it as a spectrum. Physics is the “real” or “hardcore” science, and we confirm our faith in its findings daily. You then have the social sciences, which are on the other end of the spectrum. And then you have books that are not on the spectrum at all — Fiction. This is very much personal but oftentimes can be a great catalyst for innovation, as a lot of people have been stimulated by works of fiction in their youth.
 
-1. Can I find the book online, for free?
+#### Can I find the book online, for free?
 
 Now, another important tactic I would use is trying to find the particular book online for free. You have a lot of chances to find such books as these, again, have stood the test of time and are old enough to be curated.
 **Free books**:
