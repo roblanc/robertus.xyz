@@ -1,5 +1,6 @@
 [Techno-Feudalism in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=_zyLr1Jeo0c&pp=ygUPVGVjaG5vZmV1ZGFsaXNt)
 
+references: [[Elon Musk]]
 
 During feudal times, a serf was a laborer bound to the land, treated as an extension of the property itself, and transferred along with it in the event of a sale. Merchants were involved in buying and selling goods for profit, but their economic activities were largely overshadowed by the rents paid to the feudal lords who owned the land. 
 

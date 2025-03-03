@@ -1,0 +1,11 @@
+[his Bluesky profile](https://bsky.app/profile/vgr.bsky.social)
+
+Venkatesh Rao has effectively left X (formerly Twitter). In a recent update, he mentioned that he has "temporarily retired from the public social web" and is no longer focused on building "network capital" or cultivating reach on social media platforms. Instead, he prefers to engage in smaller, more private spaces and has expressed disinterest in the current state of social media, describing it as a "grim death march" through a challenging environment. He is content to maintain his existing connections without aggressively pursuing a larger audience or presence online. 
+
+His thoughts in March 2025
+
+A key difference between 2017 and 2025 is that in 2017, liberal and progressive ordinary people were dismayed and vulnerable to Trump derangement syndrome while institutionalists were more measured in their responses because it was more noisy theater than substance, and the Democrats were still marginally effective in opposition.
+
+This time around it is reversed. The institutionalists are suffering TDS because state capacity is actually being dismantled, not just threatened with bluster. Liberal and progressive ordinary people have not just given up on state capacity surviving this assault, but even on the Democratic Party surviving this enough to mount a meaningful electoral challenge based on reconstruction or anything more imaginative in 2026. Real-time resistance is a fantasy. They'll just remain barely alive enough to prevent more effective opposition from taking over. Salvage efforts will not be worthless but won't be sufficient to sustain a political tradition. Without new ideas and organized resources entering the arena from the left (<5% probability) we're headed for a decade or more of de facto one-party rule presiding over an extractive, retreating rump state run like a PE fund for and by oligarchs. The story won't be as bad as post-Soviet Russia, but in the same genre.
+
+But it doesn't feel like hopelessness at ordinary citizen level. Merely sensible abandonment of an overrun political-institutional front.
