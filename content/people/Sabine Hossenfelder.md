@@ -1,3 +1,7 @@
+Last update: 
+[[2025-03-07]]
+
+
 - thinks Microsoft made progress with the new quantum chip
 - makes fun of [[Elon Musk]]
 - good when she popularizes subjects that are well understood.

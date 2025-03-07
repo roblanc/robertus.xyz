@@ -22,6 +22,6 @@ Notes based on this: [Jeffrey Sachs Brings Real Politics to the EU Parliament](h
 
 Likes the saying of [[Henry Kissinger]]: "It may be dangerous to be America's enemy, but to be America's friend is fatal."
 
-- thinks that [[Putin]] invaded Ukraine to force [[Zelensky]] to negotiate 
+- thinks that [[Vladimir Putin]] invaded Ukraine to force [[Zelensky]] to negotiate 
 
 [This is a video](https://youtu.be/_RNE3X41IvM?si=xyNLfjPk3WQZSrgH) featuring a pro-Russian propagandist - who also has some extremely questionable views on human rights abuses by the likes of China - uploaded to a YouTube channel ran by a YouTuber turned MEP oft described as "Elon Musk's man in the European Parliament". Make of that what you will.
