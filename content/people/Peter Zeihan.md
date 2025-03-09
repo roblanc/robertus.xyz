@@ -1,5 +1,15 @@
 [The Russian Reach: Series Introduction \|\| PETER ZEIHAN - YouTube](https://youtu.be/lGFKwshHjWQ?si=I6Y-CmdFkq51XITr)
 
+- Zeihan worked at [Stratfor](https://en.wikipedia.org/wiki/Stratfor), he says we urgently need to befriend Turkey and possibly Poland at the level of weapon production and security. Romania needs to befriend them until we develop our 'muscles'
+- for the first time Peter started doing what he is doing, he said that he is worried for the US
+- thinks that what [[Elon Musk]] is currently doing with DOGE as of [[2025-03-09]] is not worth the time as it is a chunk of change
+- thinks USAID got a lot of crap for doing some strange things, but if you are not going to invade or occupy a country, USAID is US's primary mechanism to influence countries around the world; when this is not present, the Iranians, Chinese and the Russians will dominate the space as they will step in with relief support
+- ultimately this is an actual disassembly of american power which goes into a little bit of conspiracy BUT:
+	- consider that the Russians have already penetrated the White House
+	- there are too many things happening too fast 
+	- everything that is on the list of the things happening is something that the Russians have tried before
+	- even [[Ben Shapiro]] things that the fact that the US does not support Ukraine anymore is weird and he said that he does not understand this policy at all
+
 [The Rise of the European Far-Right || Peter Zeihan](https://www.youtube.com/watch?v=GHIogvHmhxM)
 
 - on why AUR might semi-trive
