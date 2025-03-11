@@ -1,5 +1,6 @@
 [The Russian Reach: Series Introduction \|\| PETER ZEIHAN - YouTube](https://youtu.be/lGFKwshHjWQ?si=I6Y-CmdFkq51XITr)
 
+- X [[Elon Musk]] shadowbanned him when this video was released
 - Zeihan worked at [Stratfor](https://en.wikipedia.org/wiki/Stratfor), he says we urgently need to befriend Turkey and possibly Poland at the level of weapon production and security. Romania needs to befriend them until we develop our 'muscles'
 - for the first time Peter started doing what he is doing, he said that he is worried for the US
 - thinks that what [[Elon Musk]] is currently doing with DOGE as of [[2025-03-09]] is not worth the time as it is a chunk of change
