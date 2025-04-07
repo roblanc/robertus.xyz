@@ -10,16 +10,22 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 I can tell you about [[The yellow room]]
 or you can check my [[notes/notes]]
 
-### Metascience
-- [[Superstimuli]]: Are we amusing ourselves to death?
-- [[How to read higher quality books]]
 
 ### Philosophy
+- [[The yellow room]]
 - [[Life will always be good]]
+- [[A Hannibalistic approach to life]]
 
 ### Productivity
 - [[Productivity A-Z Cheatsheet]]
 - [[Execution is easy. Ideas are everything.]]
+- [[Share the obvious]]
+
+### Metascience
+- [[Superstimuli]]: Are we amusing ourselves to death?
+- [[How to read higher quality books]]
+
+
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 
