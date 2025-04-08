@@ -16,6 +16,7 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [[Productivity A-Z Cheatsheet]]
 - [[Execution is easy. Ideas are everything.]]
 - [[Share the obvious]]
+- [[Become a specialized generalist]]
 
 ### Meta
 - [[Superstimuli]]: Are we amusing ourselves to death?
