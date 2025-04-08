@@ -10,7 +10,6 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 I can tell you about [[The yellow room]]
 or you can check my [[notes/notes]]
 
-
 ### Philosophy
 - [[The yellow room]]
 - [[Life will always be good]]
@@ -21,9 +20,10 @@ or you can check my [[notes/notes]]
 - [[Execution is easy. Ideas are everything.]]
 - [[Share the obvious]]
 
-### Metascience
+### Meta
 - [[Superstimuli]]: Are we amusing ourselves to death?
 - [[How to read higher quality books]]
+- [[Books are tweets]]
 
 
 #### Connect
