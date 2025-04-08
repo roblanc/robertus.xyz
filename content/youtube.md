@@ -14,7 +14,7 @@ a list of links to all of my youtube videos
 3. [dead internet theory is REAL (and here’s why) - YouTube](https://www.youtube.com/watch?v=zU_ip4rfVsU)
 4. [Authoritarianism in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=lawK-IPJdLo)
 5. [Techno-Monarchism in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=x7cLOy6oMkc)
-6. [the SELF HELP Iceberg Explained - YouTube](https://www.youtube.com/watch?v=-maszG5Ll-k&t=970s
+6. [the SELF HELP Iceberg Explained - YouTube](https://youtu.be/-maszG5Ll-k?si=3nOEhjrT9igs1-n9)
 7. [Antinatalism in \~ 100 seconds - YouTube](https://youtu.be/AnJPrMy76GI?si=G5TewmaEU5IuEEuc)
 8. [Kali Yuga in ~ 100 seconds](https://youtu.be/f9mEsTUfD10?si=Swh96hESdHxpA0Lw)
 9. [Every MAJOR Philosophy Book Explained in 2 Words](https://youtu.be/VHRuuYZr4to?si=tajkfBHDowd5TENK)
