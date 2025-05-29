@@ -7,10 +7,11 @@ Dear fellow internet dweller,
 
 You’ve managed to find your way into my working notes, which I’ve accumulated over the course of several years. This database is part of my endeavor to arrange my own notions and ideas in a more public place where I can link notes on various topics together. These are in a constant state of flux. I also post/experiment with visual trickery on my YouTube channel, ideas and theories that interest me. I use it to alleviate boredom and occasionally heighten my thought processes. I am a systematizer, and this is my pocket dimension!
 
-#### one-pagers
+### One-pagers
 
 - [[Pollution]]
-- TBD
+- [[Labs]]
+- [[Optimizing resource allocation for long-term impact]]
 ### Philosophical musings
 - [[The yellow room]]
 - [[Life will always be good]]
@@ -21,11 +22,11 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [[Execution is easy. Ideas are everything.]]
 - [[Share the obvious]]
 - [[Become a specialized generalist]]
+- [[How to read higher quality books]]
 
 ### Meta
 - [[Superstimuli]]: Are we amusing ourselves to death?
-- [[How to read higher quality books]]
-- [[Books are tweets]]
+
 
 
 #### Connect

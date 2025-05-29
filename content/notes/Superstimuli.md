@@ -102,7 +102,7 @@ Resisting any temptation takes conscious expenditure of an exhaustible supply of
 - What gets measured, gets managed.
 - While checking my apple watch, I am more inclinde to work out as I get rewarded by the small machine. Sure it is not much, but it still a bump in the right direction. I am still overstimulated by colors and charts to help me move forward.
 
-### Start small
+### Starting small
 
 - delete your social media apps from your phone to add friction
 - when working on the computer, install extensions to block superstimuli themed websites
