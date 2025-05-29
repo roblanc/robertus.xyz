@@ -13,6 +13,7 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [[Labs]]
 - [[Optimizing resource allocation for long-term impact]]
 ### Philosophical musings
+- [[Superstimuli]]: Are we amusing ourselves to death?
 - [[The yellow room]]
 - [[Life will always be good]]
 - [[A Hannibalistic approach to life]]
@@ -23,11 +24,6 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [[Share the obvious]]
 - [[Become a specialized generalist]]
 - [[How to read higher quality books]]
-
-### Meta
-- [[Superstimuli]]: Are we amusing ourselves to death?
-
-
 
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
