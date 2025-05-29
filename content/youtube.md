@@ -13,7 +13,7 @@ I am doing YouTube as a hobby. Started a channel in 2016. This is a list of link
 1. [The Simulation Theory Iceberg Explained](https://youtu.be/t3o09vca_xU?si=qYvSP1d9T61ZrqGg)
 2. [I might need your help with something...](https://youtu.be/RiMJTVNLMd0?si=YGhoW8EXgk4b-bfv)
 3. [Neoliberalism in ~ 100 seconds](https://youtu.be/OEIIrhvgIL8?si=1Sz-kNdgJMU6YJmH)
-4. [Philosophy of The Pope explained](https://youtu.be/hzpe8wPe_lw?si=ZSE1ka6q_oD6o7pY
+4. [Philosophy of The Pope explained](https://youtu.be/hzpe8wPe_lw?si=ZSE1ka6q_oD6o7pY)
 5. [Ludwig Wittgenstein in ~ 100 seconds](https://youtu.be/YuGnYv9eMio?si=EUhDxEH-DRCtqzaE)
 6. [How to ruin your 30s in 100 seconds - YouTube](https://youtu.be/DjklNmKaeuo?si=b832aaqwM4xowrin)
 7. [Bertrand Russell in \~ 100 seconds - YouTube](https://www.youtube.com/watch?v=Hbwec-lTPrc&t=1s)
