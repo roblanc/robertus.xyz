@@ -1,3 +1,0 @@
-- seems very arogant
-- arguably a war criminal
-- there was an old recording of him saying that they control the US (I believe something like 2004 or so but still need to check at some point)

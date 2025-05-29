@@ -1,4 +1,3 @@
-
 What would AGI do for humanity? 
 
 - **Healthcare**:
