@@ -25,6 +25,9 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [[Become a specialized generalist]]
 - [[How to read higher quality books]]
 
+#### Culture
+[[SEO is losing its dominance (Welcome to GEO)]]
+
 #### Must-reads
 
 - [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
