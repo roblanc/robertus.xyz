@@ -201,4 +201,4 @@ I am doing YouTube as a hobby. Started a channel in 2016. This is a list of link
 190. [THE ART OF WAR APPLIED TO BUSINESS by SUN TZU | ANIMATED BOOK REVIEW - YouTube](https://www.youtube.com/watch?si=POP3oIp3NoDLZvhO&v=QnDZCJcmD0c&feature=youtu.be)
 191. [Fight Club: A Case Study in Nihilism & Anarchy - YouTube](https://www.youtube.com/watch?v=9njgY2MUBpc)
 192. [Creating an Iconic Brand: Tips from Apple's Playbook - YouTube](https://www.youtube.com/watch?v=SjBYaLOw1mg&feature=youtu.be)
-193. [How To Read a Book a Week (my first YouTub
+193. [How To Read a Book a Week (my first YouTube video) - YouTube](https://www.youtube.com/watch?si=yhUAFEULihHMriXT&v=moMQpxKWjAU&feature=youtu.be)
