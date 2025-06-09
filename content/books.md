@@ -9,9 +9,10 @@ This page tracks books I have finished and books that I would like to read somed
 
 ## Finished
 
-- [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+- to be added
 
 ## Books that I would like to read one day
 
 - [The Hagakure](https://archive.org/details/hagakurebookofsa0000yama)
+- Mirrorshades: The Cyberpunk Anthology
 
