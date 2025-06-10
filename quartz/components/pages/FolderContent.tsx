@@ -95,7 +95,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </p>
           )}
           <div>
-            <PageList {...listProps} />
+            <PageList {...listProps} showDate={false} />
           </div>
         </div>
       </div>

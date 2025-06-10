@@ -12,11 +12,16 @@ interface ContentMetaOptions {
    */
   showReadingTime: boolean
   showComma: boolean
+  /**
+   * Whether to display the page's date
+   */
+  showDate: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
   showComma: true,
+  showDate: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -29,7 +34,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
+      if (fileData.dates && options.showDate) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 

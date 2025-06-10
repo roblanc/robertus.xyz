@@ -28,9 +28,10 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
 type Props = {
   limit?: number
   sort?: SortFn
+  showDate?: boolean
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
+export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort, showDate = true }: Props) => {
   const sorter = sort ?? byDateAndAlphabetical(cfg)
   let list = allFiles.sort(sorter)
   if (limit) {
@@ -46,9 +47,11 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         return (
           <li class="section-li">
             <div class="section">
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
+              {showDate && page.dates && (
+                <p class="meta">
+                  <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                </p>
+              )}
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
