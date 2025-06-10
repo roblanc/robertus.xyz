@@ -5,7 +5,7 @@ tags:
   - books
 ---
 
-This page tracks books I have finished and books that I would like to read someday.
+This page tracks books I have finished and others I hope to read someday, grouped by category for easier browsing.
 
 ## Finished
 
