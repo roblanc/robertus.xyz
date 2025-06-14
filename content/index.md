@@ -17,6 +17,7 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [[The yellow room]]
 - [[Life will always be good]]
 - [[A Hannibalistic approach to life]]
+- [[ChatGPT's Manipulative Meltdown]]
 
 ### Productivity
 - [[Productivity A-Z Cheatsheet]]
