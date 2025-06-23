@@ -202,3 +202,6 @@ I am doing YouTube as a hobby. Started a channel in 2016. This is a list of link
 191. [Fight Club: A Case Study in Nihilism & Anarchy - YouTube](https://www.youtube.com/watch?v=9njgY2MUBpc)
 192. [Creating an Iconic Brand: Tips from Apple's Playbook - YouTube](https://www.youtube.com/watch?v=SjBYaLOw1mg&feature=youtu.be)
 193. [How To Read a Book a Week (my first YouTube video) - YouTube](https://www.youtube.com/watch?si=yhUAFEULihHMriXT&v=moMQpxKWjAU&feature=youtu.be)
+
+194. [Techno-Nationalism in ~ 100 seconds - YouTube](https://youtu.be/qXII8IJMEVs)
+195. [The First AI Suicide Has Already Happened – And You Missed It - YouTube](https://youtu.be/9NPq9bMSYJI)
