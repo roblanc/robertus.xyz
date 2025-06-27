@@ -45,3 +45,18 @@ Phone calls go unanswered. Forgive us. Our mouths are full of tomatoes.
 We are so busy being small and hungry and alive.
 
 — Joy Sullivan
+
+## Pluton
+
+Aştept primăvara:
+vreau să fiu dus de un pluton suav
+la primul zid şi împuşcat cu muguri
+şi când voi muri să-mi înflorească toate rănile,
+să vină toate albinele la rănile mele
+şi să mă transporte pe aripi
+către tărâmul de polen unde merită să ajung
+cu flori cu tot, cu tristeţe cu tot,
+cu primăvară cu tot,
+acum şi-n veacul vecilor.
+
+— Adrian Păunescu
