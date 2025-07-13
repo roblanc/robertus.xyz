@@ -8,7 +8,8 @@ tags:
 
 I am doing YouTube as a hobby. Started a channel in 2016. This is a list of links to all of my youtube videos essays.
 
-----
+---
+
 1. [Prompt Theory is Real (and MIGHT cause WWIII)](https://youtu.be/mZZknGHjFME?si=7X1trDxz3G4GFEo9)
 2. [The Simulation Theory Iceberg Explained](https://youtu.be/t3o09vca_xU?si=qYvSP1d9T61ZrqGg)
 3. [I might need your help with something...](https://youtu.be/RiMJTVNLMd0?si=YGhoW8EXgk4b-bfv)
@@ -205,3 +206,10 @@ I am doing YouTube as a hobby. Started a channel in 2016. This is a list of link
 
 194. [Techno-Nationalism in ~ 100 seconds - YouTube](https://youtu.be/qXII8IJMEVs)
 195. [The First AI Suicide Has Already Happened – And You Missed It - YouTube](https://youtu.be/9NPq9bMSYJI)
+
+196. [Filofascism in ~ 100 seconds - YouTube](https://www.youtube.com/watch?v=TODO)
+197. [Left Accelerationism in ~ 100 seconds - YouTube](https://www.youtube.com/watch?v=TODO)
+198. [Medieval Philosophy in ~ 100 seconds - YouTube](https://www.youtube.com/watch?v=TODO)
+199. [ChatGPT drove someone insane - YouTube](https://www.youtube.com/watch?v=TODO)
+200. [AI psychosis - YouTube](https://www.youtube.com/watch?v=TODO)
+201. [People believe they made AI Sentient - YouTube](https://www.youtube.com/watch?v=TODO)
