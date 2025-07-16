@@ -36,6 +36,7 @@ And Finished knowing - then -
 
 — Emily Dickinson
 
+
 ## I waited so long for love
 
 I waited so long for love and suddenly, here it is standing in the garden, hands full of heirlooms hot from the sun.
@@ -109,3 +110,4 @@ I listen for returning feet
 and voices at the door.
 
 — J. R. R. Tolkien
+
