@@ -33,7 +33,7 @@ Hannibal was a child prodigy. He almost reached comic-book supervillain levels i
 - eidetic memory
 - ability to effectively use the Method of Loci (i.e. memory palace)
 
-####  The Memory Palace
+####  The [[Productivity as a Superstimulus]] is a great example of this.
 
 > The door to Dr. Hannibal Lecter’s memory palace is in the darkness at the center of his mind and it has a latch that can be found by touch alone. This curious portal opens on immense and well-lit spaces, early baroque, and corridors and chambers rivaling in number those of the Topkapi Museum.
 > 

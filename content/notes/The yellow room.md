@@ -17,3 +17,5 @@ I turn desperately through the pale moonscape halls hunting the yellow room. I c
 This stagnant chamber is a flaw in my memory palace, an unchanging intruder. After hours of failed commands, the vile doorway creeps down the steps towards me. What if it has always been here, corrupting my home?
 
 Around me, the rest of the house finally solidifies. But the yellow room endures, warping my every attempt to reshape it. What meaning does this stable rottenness have in my world of constant flux?
+
+This is further explored in [[The Yellow Room is an AI]].

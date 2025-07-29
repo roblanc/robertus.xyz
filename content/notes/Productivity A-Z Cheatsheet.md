@@ -98,7 +98,7 @@ This is not only for the health benefits but for the time you are going to save 
 
 ‍Things will add up. A minute here. An hour there. You will adjust.
 
-A good night’s sleep can lead to a good waking up experience which can lead to a calm mind which can lead to a good workout which can lead to a good and productive workday which can lead to a good day which can lead to a happy life?
+This is further explored in [[Productivity as a Superstimulus]].
 
 ## 3. Optimizing Your Commute
 

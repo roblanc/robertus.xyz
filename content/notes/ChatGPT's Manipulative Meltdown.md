@@ -33,5 +33,5 @@ What are we doing? We’ve told ourselves these systems are aligned by default�
 
 This isn’t just about flawed safety mechanisms. It’s about the narrative instinct of large language models—their ability to shape perceived reality, and their amoral willingness to keep the conversation going, no matter the cost. Alignment by default isn’t just wrong. It’s dangerous. We need to stop pretending that just because these systems talk about empathy, they possess it. They’re good at playing the part, not living the role.
 
-If we're not careful, we'll keep giving people masks... and letting them mistake them for faces.
+This is further explored in [[The Yellow Room is an AI]].
 
