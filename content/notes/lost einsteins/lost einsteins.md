@@ -6,7 +6,7 @@ tags:
   - index
 ---
 
-This is a collection of notes on influential figures who could be considered "lost Einsteins" - individuals with the potential to change the world.
+I enjoy keeping notes on people and tracking my perception. 
 
 - [[Demis Hassabis]]
 - [[Elon Musk]]
