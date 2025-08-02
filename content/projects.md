@@ -54,4 +54,52 @@ These projects demonstrate my skills in Quality Assurance, covering various aspe
 
 ---
 
+## Other GitHub Projects
+
+Here are some other projects from my GitHub profile. Descriptions and details to be added soon!
+
+### digital-garden-jekyll-template
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/digital-garden-jekyll-template](https://github.com/roblanc/digital-garden-jekyll-template)
+
+### form-validation-playground
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/form-validation-playground](https://github.com/roblanc/form-validation-playground)
+
+### OpenCut
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/OpenCut](https://github.com/roblanc/OpenCut)
+
+### PassLeaf
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/PassLeaf](https://github.com/roblanc/PassLeaf)
+
+### qa-todo-project
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/qa-todo-project](https://github.com/roblanc/qa-todo-project)
+
+### romanian-word-ap
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/romanian-word-ap](https://github.com/roblanc/romanian-word-ap)
+
+### youtube-visual-brain
+
+**Description:** (Placeholder: Add description)
+
+**GitHub Repository:** [https://github.com/roblanc/youtube-visual-brain](https://github.com/roblanc/youtube-visual-brain)
+
+---
+
 I'll update this page as these projects evolve and new ones are added.
