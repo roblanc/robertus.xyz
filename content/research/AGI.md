@@ -1,4 +1,6 @@
-What would AGI do for humanity? 
+What would AGI do for humanity?
+
+https://ai-2027.com/
 
 - **Healthcare**:
     - Accelerate drug discovery by simulating molecular interactions, reducing development time from years to months.
