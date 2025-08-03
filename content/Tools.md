@@ -1,11 +1,13 @@
 ---
-title: AI Tools
+title: Tools & Resources
 date: 2025-08-03
-description: A curated list of AI tools for various purposes.
+description: A huge categorized dump of all the tools I use/used at some point. A collection of links to stuff I think are worth sharing.
 tags:
   - AI
   - tools
   - resources
+  - design
+  - development
 ---
 
 ### AI Platforms & Assistants
@@ -38,6 +40,7 @@ tags:
 *   **[Durable](https://durable.co/)**: AI Website Builder and small business software.
 *   **[v0.dev](https://v0.dev/)**: Generate UI with simple text prompts.
 *   **[10web.io](http://10web.io)**: AI-powered WordPress platform.
+*   **[Penpot](https://penpot.app/)**: The Design Tool for Design & Code Collaboration.
 
 ### Video & Animation
 #### Video Creation & Editing
@@ -86,6 +89,7 @@ tags:
 *   **[Docer](https://docer.to/)**: AI-powered document tools.
 *   **[Gamma](https://gamma.app/)**: Create presentations, websites, and more with AI.
 *   **[Pitch Avatar](https://www.pitchavatar.com/)**: Your AI assistant in slides delivery.
+*   **[Markmap](https://markmap.js.org/repl)**: Visualize your Markdown as mindmaps.
 
 #### Other Tools
 *   **[Beforesunset](https://www.beforesunset.ai)**: AI-powered to-do lists.
@@ -103,6 +107,7 @@ tags:
 *   **[Touchdesigner](https://derivative.ca)**: Visual development platform.
 *   **[Hugging Face](https://huggingface.co/)**: The AI community building the future.
 *   **[Langchain](https://www.langchain.com/)**: Framework for developing applications powered by language models.
+*   **[Jstack](https://jstack.app)**: The stack for building seriously fast, lightweight and end-to-end typesafe applications.
 
 ### Prompting
 *   **[SnackPrompt](https://www.snackprompt.com/)**: A platform for discovering, sharing, and using AI prompts.
@@ -116,3 +121,7 @@ tags:
 *   **[InsanelyGood Tools](https://insanelygood.tools/)**: Cutting-edge AI experiments.
 *   **[Ultimate Tools](https://ultimatetools.eu/en/)**: Discover the best digital marketing tools.
 *   **[Proddducts](https://www.proddducts.com/)**: Discover new products.
+*   **[Hugging Face Spaces](https://huggingface.co/spaces)**: The AI App store.
+
+### Software & Utilities
+*   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
