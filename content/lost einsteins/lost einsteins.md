@@ -12,3 +12,4 @@ Linus Pauling thought Vitamin C cured everything. Isaac Newton spent half his ti
 
 - [[Demis Hassabis]]
 - [[Elon Musk]]
+- [[Sam Harris]]
