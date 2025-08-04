@@ -125,3 +125,4 @@ tags:
 
 ### Software & Utilities
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
+*   **[appstorrent.ru](https://appstorrent.ru)**: Software distribution.
