@@ -13,4 +13,4 @@ Linus Pauling thought Vitamin C cured everything. Isaac Newton spent half his ti
 - [[Demis Hassabis]]
 - [[Elon Musk]]
 - [[Sam Harris]]
-- [[Patrick Collison]]: Co-founder of Stripe, driving force behind economic infrastructure and a prominent advocate for progress studies.
+- [[Patrick Collison]]
