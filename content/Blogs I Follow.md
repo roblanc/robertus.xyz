@@ -86,7 +86,7 @@ These are some high-signal sources for shaping a progress-focused mind.
 - [Futurity](https://www.futurity.org/)  
   Curated research news from top universities, rewritten for clarity and relevance.
 
-### Fun & random
+### 🧪 Fun & random
 ### ctrlcreep.net
 * ctrlcreep.net is a personal, experimental website described as “a gloam cave for autochthonous nudibranchs,” featuring links to creative projects, writing, and social profiles.
 ### [FutureHouse](https://www.futurehouse.org/)
@@ -137,7 +137,7 @@ These are some high-signal sources for shaping a progress-focused mind.
 * Black Swan Farming is a site focused on product development strategies that emphasize rare, high-impact breakthroughs and avoiding common pitfalls to build products and teams people love.
 ### [Hardip Patel](https://hardippatel.com/)
 * This is Hardip Patel’s personal portfolio site, showcasing his health stats, software projects, work history, moods, and blog posts in a data-driven, visually organized format.
-### [￼This is important](https://thisisimportant.net/)
+### [This is important](https://thisisimportant.net/)
 * A personal blog by Sarah Moir, a San Francisco-based tech writer, featuring curiosity-driven research and essays on music metadata, technical writing, SaaS documentation, and data analysis practices.
 ### [kipp.ply](https://kipp.ly/)
 * A personal blog featuring in-depth articles on programming, technology, and personal reflections, organized by favorites and chronology.
