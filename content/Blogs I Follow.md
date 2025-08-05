@@ -12,7 +12,7 @@ These are some high-signal sources for shaping a progress-focused mind.
 - [NBER Working Papers](https://www.nber.org/papers)  
   Influential early-stage research on productivity, innovation, and economic growth.
 
-### 📰 Specialized Newsletters<!-- {"fold":true} -->
+### 📰 Specialized Newsletters
 
 - [Vox Future Perfect](https://www.vox.com/future-perfect)  
   Covers altruism-inspired stories on global health, development, and policy innovation.
