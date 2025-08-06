@@ -4,6 +4,8 @@ description: I asked various AIs a question about their potential as a superinte
 date: 2025-08-06
 ---
 
+_This page will be updated as I ask more questions and as the LLMs evolve._
+
 I asked each AI the following question and here's what response I got. I also want to record the exact date (today) when I asked the question as I would like to update the page from time to time.
 
 **The Question (asked on August 6, 2025):**
