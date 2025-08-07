@@ -32,6 +32,7 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 #### Must-reads
 
 - [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+- [No One is Really Working](https://www.humaninvariant.com/blog/working)
 
 #### My Projects
 
