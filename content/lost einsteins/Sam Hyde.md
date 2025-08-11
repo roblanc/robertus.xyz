@@ -1,9 +1,9 @@
 # Sam Hyde Notes
 
 ## Life & Career Lessons
- • Corporate jobs can teach valuable skills (work speed, file handling, business processes), even if the work is unpleasant.
- • There’s a difference between “toil” (soul-crushing labor) and work that provides experience or value.
- • If your job is pure toil and provides nothing, you should leave; but if you’re learning, it’s worth sticking with for a while.
+• Corporate jobs can teach valuable skills (work speed, file handling, business processes), even if the work is unpleasant.
+• There’s a difference between “toil” (soul-crushing labor) and work that provides experience or value.
+• If your job is pure toil and provides nothing, you should leave; but if you’re learning, it’s worth sticking with for a while.
  • Having a mentor in your 20s is extremely valuable—find someone experienced who can teach you.
  • Don’t waste time endlessly deliberating between options; when faced with a fork in the road, just pick one and move forward.
  • Money is a form of “meta-energy” that you trade your time, effort, and life for—respect its importance.
