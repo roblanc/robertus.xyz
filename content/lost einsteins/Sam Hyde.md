@@ -1,3 +1,6 @@
+# Sam Hyde Notes
+
+## Life & Career Lessons
  • Corporate jobs can teach valuable skills (work speed, file handling, business processes), even if the work is unpleasant.
  • There’s a difference between “toil” (soul-crushing labor) and work that provides experience or value.
  • If your job is pure toil and provides nothing, you should leave; but if you’re learning, it’s worth sticking with for a while.
@@ -18,6 +21,7 @@
  • Most people don’t regret not “enjoying their 20s”—they regret not building something meaningful.
  • Don’t get fixated on material status symbols; focus on building real value and skills.
 
+## Corporate Job Experience
 Sam Hyde learned valuable business processes and work habits from his corporate job, despite disliking it.
 
 In the video, Sam Hyde describes his experience working at a sports marketing company that did signage for stadiums. Although he found the job unpleasant and realized he wasn’t suited for corporate 9-to-5 work, he highlights a few key things he learned:
@@ -31,6 +35,7 @@ Here’s how he puts it:
 
 So, even though the job was not enjoyable, it provided him with practical skills and an understanding of how businesses operate, which he considers useful experience.
 
+## Controversial Views / Reddit Post
 - viewed as a nazi on the general internet; I do not know if I agree yet, I haven't watched or read his stuff yet [`Fri, 24 May`]
 
 **8 years ago on reddit:** 
@@ -57,4 +62,5 @@ The future is headed towards Cormac McCarthy's The Road and talking/thinking abo
 
 This doesn't mean you have to start hating black people or using racial slurs or deliberately making yourself unpopular at parties, but whites need to regain some sort of cohesive tribal self-interest and identity right now just like everybody else has or in fifty years this country is going to be like Brazil (the bad parts, not the sexy babes and beaches and rich dudes in white linen suits). It's possible to have compassion for Third-Worlders, goodwill towards all mankind, respectful conversations with and attitudes towards people who don't look like you, and at the same time not want your own country to become a cesspit :) Sorry for getting all 'political', I'll go make some funny faces now!
 
+## Source
 Source: https://www.youtube.com/watch?v=DbclATSKz3U
