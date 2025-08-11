@@ -1,3 +1,23 @@
+ • Corporate jobs can teach valuable skills (work speed, file handling, business processes), even if the work is unpleasant.
+ • There’s a difference between “toil” (soul-crushing labor) and work that provides experience or value.
+ • If your job is pure toil and provides nothing, you should leave; but if you’re learning, it’s worth sticking with for a while.
+ • Having a mentor in your 20s is extremely valuable—find someone experienced who can teach you.
+ • Don’t waste time endlessly deliberating between options; when faced with a fork in the road, just pick one and move forward.
+ • Money is a form of “meta-energy” that you trade your time, effort, and life for—respect its importance.
+ • Avoid lifestyle inflation: when you start earning more, don’t immediately upgrade your lifestyle (e.g., buying luxury cars).
+ • Don’t spend more than 5% of your net worth on a car or luxury item.
+ • Expensive cars and luxury goods are rarely worth it; the difference in experience is often negligible.
+ • If you’re unhappy, focus on being functional and disciplined rather than chasing happiness.
+ • Set goals, find something worth fighting for, and dedicate yourself to it for fulfillment.
+ • Discipline problems often stem from not having clear goals.
+ • It can take years to figure out what people will pay you for—expect a long search for monetizable skills.
+ • If you find something that works, pursue it with intensity (“hammer it”).
+ • If your job is painful but pays well, at least save the money—don’t waste it on short-term relief.
+ • Avoid addiction and destructive habits; they will sabotage your progress.
+ • Success often comes from being present, likable, and open to opportunities, not just from targeted effort.
+ • Most people don’t regret not “enjoying their 20s”—they regret not building something meaningful.
+ • Don’t get fixated on material status symbols; focus on building real value and skills.
+
 Sam Hyde learned valuable business processes and work habits from his corporate job, despite disliking it.
 
 In the video, Sam Hyde describes his experience working at a sports marketing company that did signage for stadiums. Although he found the job unpleasant and realized he wasn’t suited for corporate 9-to-5 work, he highlights a few key things he learned:
