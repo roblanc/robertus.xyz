@@ -35,6 +35,21 @@ Here’s how he puts it:
 
 So, even though the job was not enjoyable, it provided him with practical skills and an understanding of how businesses operate, which he considers useful experience.
 
+## Ideology and Controversies
+His ideology, often obscured by irony, includes:
+
+Alt-Right Association: Linked to alt-right ideology, appealing to anti-progressive, pro-white audiences. Uses dog whistles—subtle racist, misogynistic, or antisemitic references—popular on 4chan/8chan. Critiques "feminization" and political correctness, framing comedy as cultural pushback.
+
+Transgressive Humor: Comedy thrives on outrage, trolling with offensive content (e.g., 2013 TEDx talk, homophobic stand-up). Blurs satire and genuine belief, leading to hate speech accusations.
+
+Far-Right Support: Donated $5,000 to Andrew Anglin’s (The Daily Stormer) legal defense, associated with Richard Spencer, and spread Sandy Hook conspiracy theories.
+
+Anti-Establishment/Media: Opposes mainstream media and progressive norms, alleging censorship. Claims World Peace was canceled by Adult Swim due to Trump support and external pressure.
+
+Post-Irony/Ambiguity: Defenders argue his work is performative trolling to expose societal absurdities. Critics, including academics, say irony normalizes extremist views, as fans take content literally.
+
+Deplatformed from YouTube, Twitter, and Reddit for hate speech violations, Hyde operates on private platforms. His ideology, whether sincere or performative, challenges liberal norms through provocative humor, often amplifying far-right sentiments under satire’s guise.
+
 ## Controversial Views / Reddit Post
 - viewed as a nazi on the general internet; I do not know if I agree yet, I haven't watched or read his stuff yet [`Fri, 24 May`]
 
