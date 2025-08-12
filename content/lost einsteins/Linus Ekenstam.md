@@ -5,7 +5,7 @@ tags:
   - eu/acc
 ---
 
-- Debunked Elon Musk
+- Debunked [[Elon Musk]]
 - On February 22 (right before Germany elections) he wrote that Grok is a security concern
     - [Grok needs a lot of red teaming, or it needs to be temporary turned off. It’s an international security concern.](https://x.com/LinusEkenstam/status/1893739332143370323)
 
