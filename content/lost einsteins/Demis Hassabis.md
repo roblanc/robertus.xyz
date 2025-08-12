@@ -6,8 +6,13 @@ tags:
   - person
   - ai
 ---
+- Demis is the priestly class of AI
+- he's not some running on VC money, he's not traveling the world shaking hands with sheikhs, he's in London in the lab doing kooky british science stuff. 
+- he doesn't have to worry about the money like a startup, he's far from the silicon valley mindvirus, he just ships
+- while oAI tries to find the right amount of sycophancy, Demis is solving Go, solving worldgen, folding proteins.
+- you never see the ego, monk-like demeanor.
 
-**Sir Demis Hassabis** is a British computer scientist, artificial intelligence researcher and entrepreneur. He is the co-founder and CEO of [[Google DeepMind]].
+*some wiki stuff*
 
 He is a former child chess prodigy, who finished his A-levels two years early and then programmed the classic game *Theme Park* at Bullfrog Productions. He graduated from Cambridge University with a Double First in computer science, and founded the videogames company Elixir Studios, producing the BAFTA-nominated *Republic: The Revolution*.
 
@@ -19,12 +24,3 @@ He is a 5-time winner of the Mind Sports Olympiad and a Fellow of the Royal Soci
 
 He has a friendly rivalry with [[Elon Musk]].
 
-Demis is the priestly class of AI
-
-he's not some running on VC money, he's not traveling the world shaking hands with sheikhs, he's in London in the lab doing kooky british science stuff. 
-
-he doesn't have to worry about the money like a startup, he's far from the silicon valley mindvirus, he just ships
-
-while oAI tries to find the right amount of sycophancy, Demis is solving Go, solving worldgen, folding proteins.
-
-you never see the ego, monk-like demeanor.

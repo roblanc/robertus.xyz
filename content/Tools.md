@@ -126,6 +126,6 @@ tags:
 *   **[Proddducts](https://www.proddducts.com/)**: Discover new products.
 *   **[Hugging Face Spaces](https://huggingface.co/spaces)**: The AI App store.
 
-### Software & Utilities
+### Software & Utilities and being a pirate
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
 *   **[appstorrent.ru](https://appstorrent.ru)**: Software distribution.
