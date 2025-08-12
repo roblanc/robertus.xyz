@@ -18,3 +18,13 @@ In 2010, he co-founded DeepMind, a London-based machine learning AI startup. Dee
 He is a 5-time winner of the Mind Sports Olympiad and a Fellow of the Royal Society. He was awarded the Nobel Prize in Chemistry in 2024.
 
 He has a friendly rivalry with [[Elon Musk]].
+
+Demis is the priestly class of AI
+
+he's not some running on VC money, he's not traveling the world shaking hands with sheikhs, he's in London in the lab doing kooky british science stuff. 
+
+he doesn't have to worry about the money like a startup, he's far from the silicon valley mindvirus, he just ships
+
+while oAI tries to find the right amount of sycophancy, Demis is solving Go, solving worldgen, folding proteins.
+
+you never see the ego, monk-like demeanor.
