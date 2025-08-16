@@ -28,9 +28,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      title: "Research",
+      title: "Folders", // Changed title to be more general
       folderClickBehavior: "link",
-      filterFn: (node) => node.file?.path && node.file.path.startsWith("research"),
     }),
   ],
   right: [
@@ -49,9 +48,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      title: "Research",
+      title: "Folders", // Changed title to be more general
       folderClickBehavior: "link",
-      filterFn: (node) => node.file?.path && node.file.path.startsWith("research"),
     }),
   ],
   right: [],
