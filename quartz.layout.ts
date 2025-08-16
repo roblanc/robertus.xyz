@@ -27,12 +27,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
-    Component.Explorer({
-      title: "More",
-      folderDefaultState: "open",
-      files: ["now.md"],
-    }),
   ],
   right: [
     Component.Graph(),
@@ -49,7 +43,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
   ],
   right: [],
 }
