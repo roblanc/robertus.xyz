@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       title: "Research",
       folderClickBehavior: "link",
-      filterFn: (node) => node.file?.path.startsWith("research"),
+      filterFn: (node) => node.file?.path && node.file.path.startsWith("research"),
     }),
   ],
   right: [
@@ -51,7 +51,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       title: "Research",
       folderClickBehavior: "link",
-      filterFn: (node) => node.file?.path.startsWith("research"),
+      filterFn: (node) => node.file?.path && node.file.path.startsWith("research"),
     }),
   ],
   right: [],
