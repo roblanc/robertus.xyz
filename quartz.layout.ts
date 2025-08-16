@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      title: "Folders", // Changed title to be more general
+      title: "Explore", // Changed title to be more general
       folderClickBehavior: "link",
     }),
   ],
@@ -48,7 +48,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer({
-      title: "Folders", // Changed title to be more general
+      title: "Explore", // Changed title to be more general
       folderClickBehavior: "link",
     }),
   ],
