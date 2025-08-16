@@ -3,10 +3,10 @@ title: Compression
 ---
 
 As a consequence of 
-short-form content, 
-information density must go up 
-on a per-content basis
-or it is quickly deemed irrelevant.
+Short-form content, 
+Information density must go up 
+On a per-content basis
+Or it is quickly deemed irrelevant.
 
 This means;
 human communication protocols 
