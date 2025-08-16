@@ -28,6 +28,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer(),
+    Component.Explorer({
+      title: "More",
+      folderDefaultState: "open",
+      files: ["now.md"],
+    }),
   ],
   right: [
     Component.Graph(),

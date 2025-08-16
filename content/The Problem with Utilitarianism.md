@@ -1,7 +1,6 @@
 Imagine a world where morality is math. If you could calculate every consequence of every action, and simply choose the one that creates “the greatest good for the greatest number,” you’d always know what’s right. That’s Utilitarianism in a nutshell — an ethical philosophy that says morality boils down to maximizing happiness and minimizing suffering.
-Sounds perfect.
 
-https://robertus.xyz/lost-einsteins/lost-einsteins
+Sounds perfect.
 
 It’s clear, it’s democratic, it’s measurable. So why has it been called one of the most dangerous moral systems ever invented?
 
