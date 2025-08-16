@@ -2,13 +2,38 @@
 title: Compression
 ---
 
-As a consequence of short-form content, information density must go up on a per-content basis or it is quickly deemed irrelevant.
+As a consequence of 
+short-form content, 
+information density must go up 
+on a per-content basis
+or it is quickly deemed irrelevant.
 
-This means human communication protocols are self-compressing over time; a hallmark of civilization maturity.
+This means;
+human communication protocols 
+are self-compressing 
+over time; 
+a hallmark of civilization maturity.
 
-Worry not about its addictive effects. Natural selection will weed out the ones addicted who lose agency.
+Worry not,
+about its addictive effects. 
 
-Plan for what it means to have a species that operates at such high communication information densities, while also living an average of 100 years.
+Natural selection will weed out 
+the ones addicted 
+who lose agency.
+
+Plan for what it means
+to have a species that operates
+at such high communication information densities, 
+
+while also living 
+an average of 100 years.
+
+![[Pasted image 20250816131510.png]]
+
+civilization trends toward information compression
+
+- [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360)
+
 
 ---
 
