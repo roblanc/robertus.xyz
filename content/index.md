@@ -32,6 +32,7 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 #### Must-reads
 
 - [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+- [No One is Really Working](https://www.humaninvariant.com/blog/working)
 
 #### My Projects
 
@@ -39,5 +40,8 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
+
+#### Curated Reads
+- [[Blogs I Follow]]
 
 Content curation is crucial in a society where knowledge is abundant. A form of artistic expression. Curating is all about spotting the hidden gems and putting your skills and enthusiasm to work highlighting the bits that matter to you.

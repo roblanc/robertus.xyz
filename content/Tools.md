@@ -111,6 +111,9 @@ tags:
 *   **[Langchain](https://www.langchain.com/)**: Framework for developing applications powered by language models.
 *   **[Jstack](https://jstack.app)**: The stack for building seriously fast, lightweight and end-to-end typesafe applications.
 
+#### Scraping
+*   **[Parse](https://www.parse.bot/)**: Turn any website into a structured API using AI.
+
 ### Prompting
 *   **[SnackPrompt](https://www.snackprompt.com/)**: A platform for discovering, sharing, and using AI prompts.
 *   **[Agent GPT](https://agentgpt.reworkd.ai/)**: Autonomous AI agents in your browser.
@@ -125,5 +128,6 @@ tags:
 *   **[Proddducts](https://www.proddducts.com/)**: Discover new products.
 *   **[Hugging Face Spaces](https://huggingface.co/spaces)**: The AI App store.
 
-### Software & Utilities
+### Software & Utilities and being a pirate
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
+*   **[appstorrent.ru](https://appstorrent.ru)**: Software distribution.
