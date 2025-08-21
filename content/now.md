@@ -10,3 +10,5 @@ August, 2025
 - Studying MySQL for database management.
 - Enhancing my Python scripting capabilities.
 - Re-engaging with analog writing practices.
+- Fishing.
+- Learning TypeScript.
