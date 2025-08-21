@@ -64,6 +64,8 @@ tags:
 *   **[Tune-A-Video](https://tuneavideo.github.io/)**: One-shot tuning of diffusion models for text-to-video generation.
 
 ### Audio & Voice
+
+- [wavacity.com](https://wavacity.com/): Audacity ported to web
 #### Music Creation
 *   **[Riffusion](https://www.riffusion.com/)**: AI music generation.
 *   **[Suno AI](https://suno.com)**: AI music creation.
