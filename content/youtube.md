@@ -139,7 +139,7 @@ I am doing YouTube as a hobby. Started a channel in 2016. This is a list of link
 128. [A Day in the Life of a Romanian Minimalist (Coffee, Cooking, Writing, Walking) - YouTube](https://www.youtube.com/watch?v=MIFjiSdcomw)
 129. [Evaluating my past Journal entries and setting intentions - YouTube](https://www.youtube.com/watch?v=hF-SyoVR6L4)[Mental dissociation and checking out from reality - YouTube](https://www.youtube.com/watch?v=qgS9rQv0ZxQ&t=3s)
 130. [On finding time to write and reflect - YouTube](https://www.youtube.com/watch?v=fuWz7W8DfL0)
-131. [I want to be Immortal (Simplified Humanism) - YouTube](https://www.youtube.com/watch?v=qi6cN6AKl2o)
+131. [on living forever](https://www.youtube.com/watch?v=qi6cN6AKl2o)
 132. [Why Quantity trumps Quality - YouTube](https://www.youtube.com/watch?v=z5NPjVW4EIc)
 133. [Living with the bare Minimum - YouTube](https://www.youtube.com/watch?v=PlfixoOeE9k)
 134. [Why you should procrastinate: The Philosophy of Slack - YouTube](https://www.youtube.com/watch?v=DVyGOB_3BkM)
