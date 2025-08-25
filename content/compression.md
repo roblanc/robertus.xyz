@@ -8,7 +8,6 @@ Information density must go up
 On a per-content basis
 Or it is quickly deemed irrelevant.
 
-
 This means;
 human communication protocols 
 are self-compressing 
