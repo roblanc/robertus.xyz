@@ -1,4 +1,3 @@
-
 The command line interface (CLI) is a powerful tool, but often, we only scratch the surface of its capabilities. When you combine the raw power of a modern CLI like the Gemini CLI – with its ability to read/write files, execute shell commands, search content, and even fetch web data – the possibilities for automation and hyper-personalized workflows become truly limitless.
 
 Forget just listing files or running basic scripts. Let's dive into 25 imaginative and niche ways you can leverage the Gemini CLI to streamline your work, automate tedious tasks, and even spark new creative endeavors.
@@ -48,6 +47,39 @@ Forget just listing files or running basic scripts. Let's dive into 25 imaginati
 
 ---
 
+### 26. Sync Your Memory Across Multiple Devices
+
+**Importance:** This is a crucial setup for anyone who uses the Gemini CLI on two or more computers (e.g., a desktop and a laptop) and wants a consistent, synchronized memory.
+
+**The Problem:** By default, the Gemini CLI stores its memory and settings in a `GEMINI.md` file located in your home directory (`~/.gemini/`). This file is local to each machine, meaning your memory and instructions will not be the same across your devices.
+
+**The Solution (using a Symbolic Link):** You can ensure seamless synchronization by moving your `GEMINI.md` file to a cloud-synced folder (like iCloud Drive, Google Drive, or Dropbox) and then creating a symbolic link that points from the original location to the new, shared location.
+
+This way, both Gemini instances will read from and write to the exact same file, and your cloud service will handle the synchronization automatically.
+
+**Example Commands:**
+
+1.  **Move the file to your cloud folder:**
+    ```bash
+    # Replace '/path/to/your/cloud/storage/' with the actual path
+    mv ~/.gemini/GEMINI.md /path/to/your/cloud/storage/GEMINI.md
+    ```
+
+2.  **Create the symbolic link on your first machine:**
+    ```bash
+    ln -s /path/to/your/cloud/storage/GEMINI.md ~/.gemini/GEMINI.md
+    ```
+
+3.  **On your second machine**, delete the local file (if it exists) and create the same link:
+    ```bash
+    rm ~/.gemini/GEMINI.md
+    ln -s /path/to/your/cloud/storage/GEMINI.md ~/.gemini/GEMINI.md
+    ```
+
+Now, any instruction you save on one machine will instantly be available on the other.
+
+---
+
 The Gemini CLI, with its versatile toolset, empowers you to move beyond conventional command-line usage. By combining its file system, shell execution, and web fetching capabilities, you can craft highly specific, automated workflows that cater to your unique needs and interests.
 
-This list will update as I explore more stuff. 
+This list will update as I explore more stuff.
