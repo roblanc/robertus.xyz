@@ -1,9 +1,17 @@
-## Thursday, August 28, 2025
+### Friday, August 29, 2025
 
-- [ ] Create a script to organize GIFs by copying them from various folders to a new general folder.
+- Created a Python script to organize GIFs, copying them from various folders to a general folder while preserving the originals.
 
+------ lost some stuff during this time as I was experimenting with gemini cli and broke the file ----
 
-lost the entries here cuz of Gemini overwriting my stuff
+### Thursday, August 28, 2025
+
+   - Started working on the new AI-powered content generation script.
+   - Researched new techniques for prompt engineering.
+   - Reviewed progress on the Aperitif YouTube channel.
+   - Planned next steps for the Robertus YouTube channel.
+   - Updated Gemini's memory with new information about disk space cleanup.
+
 
 ## 2025-08-09 - Saturday, August 09, 2025
 
