@@ -132,5 +132,7 @@ tags:
 ### Software & Utilities and being a pirate
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
 *   **[appstorrent.ru](https://appstorrent.ru)**: Software distribution.
+*   **[BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)**: Automatically pause/unpause your music player when other audio sources are playing/stopped.
+
 ### Video recording
 - [Kite.video](https://kite.video/): a screen recorder that makes your demo videos look like Apple commercials
