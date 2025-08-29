@@ -136,3 +136,9 @@ tags:
 
 ### Video recording
 - [Kite.video](https://kite.video/): a screen recorder that makes your demo videos look like Apple commercials
+
+### Homelab & Self-Hosting
+*   **[How to Start a Homelab for $0](https://www.youtube.com/watch?v=upC8G5yFBsA)**: A video by Mischa van den Burg that explains how to start a home lab for DevOps or IT learning with zero cost, using old hardware or free cloud services.
+    *   **Key takeaway**: Start with what you have, get hands-on, and expand as you learn.
+    *   **Recommended Hardware**: Old ThinkPads, MacBooks, Mac Minis, or thin clients.
+    *   **Free Cloud Options**: Oracle Cloud Free Tier, Azure Free Trial.
