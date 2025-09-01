@@ -146,3 +146,6 @@ tags:
     *   **Key takeaway**: Start with what you have, get hands-on, and expand as you learn.
     *   **Recommended Hardware**: Old ThinkPads, MacBooks, Mac Minis, or thin clients.
     *   **Free Cloud Options**: Oracle Cloud Free Tier, Azure Free Trial.
+
+### Command Line
+*   **[cheat.sh](https://github.com/chubin/cheat.sh?tab=readme-ov-file)**: Unified access to the best community-driven cheat sheets in one place.
