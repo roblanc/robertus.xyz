@@ -1,6 +1,5 @@
-# Sam Hyde Notes
+some notes I collected:
 
-## Life & Career Lessons
 - Corporate jobs can teach valuable skills (work speed, file handling, business processes), even if the work is unpleasant.
 - There’s a difference between “toil” (soul-crushing labor) and work that provides experience or value.
 - If your job is pure toil and provides nothing, you should leave; but if you’re learning, it’s worth sticking with for a while.
