@@ -4,7 +4,9 @@ his [X Profile](https://x.com/apralky)
 some stuff I collected:
 
 
-"Normie" isn't inherently a pejorative term, it's inherently an affectionate term, much like "foid" seems to have become But when Normie isn't where Normie should be, and hasn't been for about 300 years now, discourse naturally turns to knocking Normie down a peg or two... to reinstate intended equilibrium
+- "Normie" isn't inherently a pejorative term, it's inherently an affectionate term, much like "foid" seems to have become But when Normie isn't where Normie should be, and hasn't been for about 300 years now, discourse naturally turns to knocking Normie down a peg or two... to reinstate intended equilibrium
+
+- your epistemology is outsourced to prediction markets > your policy is arbitrated by bond yields > your "human nature" is downstream of the interest rate > your shelter costs have overridden the reproductive instinct > your labour market decides how much immigration you get > 50 bps of GDP can make magic real > your fiscal path is the only bipartisan worry > stock market stochastics engineer your class dynamics > your only wars are trade wars in 2025 you're either learning macro... or you're thinking without a license
 
 
 ## On Social Theory & Thinkers
