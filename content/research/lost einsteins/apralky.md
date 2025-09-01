@@ -1,8 +1,11 @@
-# Apralky - Collected Writings & Notes
+dense impactful writing
+ideas might be fishy
+his [X Profile](https://x.com/apralky)
+some stuff I collected:
 
-[X Profile](https://x.com/apralky)
 
----
+"Normie" isn't inherently a pejorative term, it's inherently an affectionate term, much like "foid" seems to have become But when Normie isn't where Normie should be, and hasn't been for about 300 years now, discourse naturally turns to knocking Normie down a peg or two... to reinstate intended equilibrium
+
 
 ## On Social Theory & Thinkers
 
