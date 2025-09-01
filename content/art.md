@@ -16,3 +16,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [[AstralPostcards]] — Postcards from cosmic daydreams, washed in nostalgia.
 - [[BreezeChai]] — Gentle hues and quiet moments steeped like tea.
 
+### Video Artists
+
+- [Gully](https://www.youtube.com/@Gully-Official/videos)
+
