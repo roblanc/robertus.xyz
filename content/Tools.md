@@ -18,6 +18,7 @@ tags:
 *   **[Perplexity AI](https://www.perplexity.ai/)**: Deep-dive research on topics.
 *   **[Chatsonic](https://writesonic.com/chat)**: AI Chatbot.
 *   **[GPT4All](https://gpt4all.io/)**: A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+*   **[Jan](https://jan.ai/)**: An open-source and offline alternative to ChatGPT.
 
 ### Image & Design
 #### Image Generation
@@ -128,6 +129,9 @@ tags:
 *   **[Ultimate Tools](https://ultimatetools.eu/en/)**: Discover the best digital marketing tools.
 *   **[Proddducts](https://www.proddducts.com/)**: Discover new products.
 *   **[Hugging Face Spaces](https://huggingface.co/spaces)**: The AI App store.
+
+### Social Media
+*   **[Spill](https://www.tryspill.com/)**: Visual conversation at the speed of culture.
 
 ### Software & Utilities and being a pirate
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
