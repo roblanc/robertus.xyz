@@ -1,4 +1,4 @@
-# A Collection of Useful AI Prompts
+
 
 This document is a curated list of prompts that I have found particularly effective for various AI automation tasks. I will update it regularly with new findings.
 
