@@ -12,7 +12,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [Lucas Zanotto](https://lucaszanotto.com/) — Seamless animation loops, often with humorous and whimsical elements.
 - [alexandratiff](https://x.com/alexandratiff) — Digital artist.
 - [[Macbaconai]] — A swirl of AI-driven color and whimsical experiments.
-- [[MaxVOAO]] — Scenes that feel like stills from a lost sci-fi reel.
+- [MaxVOAO](https://x.com/MaxVOAO/media) — Scenes that feel like stills from a lost sci-fi reel.
 - [[AstralPostcards]] — Postcards from cosmic daydreams, washed in nostalgia.
 - [[BreezeChai]] — Gentle hues and quiet moments steeped like tea.
 

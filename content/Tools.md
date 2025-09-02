@@ -107,6 +107,7 @@ tags:
 *   **[Cognosys](https://www.cognosys.ai/)**: Web-based AI agent to revolutionize productivity.
 
 ### Development & Technical
+*   **[Zed](https://zed.dev/)**: A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 *   **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Powerful and modular diffusion model GUI.
 *   **[Touchdesigner](https://derivative.ca)**: Visual development platform.
 *   **[Hugging Face](https://huggingface.co/)**: The AI community building the future.
