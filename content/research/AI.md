@@ -4,6 +4,7 @@
 Agentic AI
 
 - a senior engineer at google just dropped a 400-page free book on docs for review: [agentic design patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)
+- [the Notebook version as well](https://notebooklm.google.com/notebook/44bc8819-958d-4050-8431-e7efe2dbd16e)
 
 the table of contents looks like everything you need to know about agents + code:
 > advanced prompt techniques
