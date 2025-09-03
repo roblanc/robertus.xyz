@@ -16,6 +16,7 @@ insane how frequently the Chinese score completely free geopolitical wins by sim
 
 vocabulary
 - auraminned
+- turbo-normie
 
 
 

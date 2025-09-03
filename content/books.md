@@ -8,7 +8,7 @@ tags:
 This page tracks books I have finished and books that I would like to read someday.
 
 
-## Books that I would like to read one day
+## One day...
 
 - [Hagakure](https://en.wikipedia.org/wiki/Hagakure) by Yamamoto Tsunetomo — History
 - [Mirrorshades: The Cyberpunk Anthology](https://en.wikipedia.org/wiki/Mirrorshades) edited by Bruce Sterling — Fiction
