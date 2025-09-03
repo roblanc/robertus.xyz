@@ -7,8 +7,17 @@ tags:
 
 This page tracks books I have finished and books that I would like to read someday.
 
+
+## Books that I would like to read one day
+
+- [Hagakure](https://en.wikipedia.org/wiki/Hagakure) by Yamamoto Tsunetomo — History
+- [Mirrorshades: The Cyberpunk Anthology](https://en.wikipedia.org/wiki/Mirrorshades) edited by Bruce Sterling — Fiction
+- [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F) by Philip K. Dick — Fiction
+
 ## Finished
 
+- [Understand](https://en.wikipedia.org/wiki/Ted_Chiang_bibliography#Short_fiction) by Ted Chiang — Fiction
+- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) by Richard Feynman and Ralph Leighton — Memoir
 - [Tribe of Mentors](https://en.wikipedia.org/wiki/Tribe_of_Mentors) by Tim Ferriss — Self-help
 - [The Systems Mindset](https://en.wikipedia.org/wiki/Sam_Carpenter) by Sam Carpenter — Self-help
 - [A More Beautiful Question](https://en.wikipedia.org/wiki/Warren_Berger) by Warren Berger — Self-help
@@ -31,11 +40,12 @@ This page tracks books I have finished and books that I would like to read somed
 - [The Sense of Style](https://en.wikipedia.org/wiki/The_Sense_of_Style) by Steven Pinker — Writing
 - [Writing Tools](https://en.wikipedia.org/wiki/Roy_Peter_Clark) by Roy Peter Clark — Writing
 - [Bird by Bird: Some Instructions on Writing and Life](https://en.wikipedia.org/wiki/Bird_by_Bird) by Anne Lamott — Writing
+- [How to Talk About Books You Haven't Read](https://en.wikipedia.org/wiki/How_to_Talk_About_Books_You_Haven%27t_Read) by Pierre Bayard — Culture
 - [Zone to Win](https://en.wikipedia.org/wiki/Geoffrey_Moore) by Geoffrey A. Moore — Business
 - [Homo Deus](https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow) by Yuval Noah Harari — Philosophy
 - [The Power of No](https://en.wikipedia.org/wiki/James_Altucher#Books) by James Altucher and Claudia Azula Altucher — Self-help
 - [The Subtle Art of Not Giving a F*ck](https://en.wikipedia.org/wiki/The_Subtle_Art_of_Not_Giving_a_F*ck) by Mark Manson — Self-help
-- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) by Richard Feynman and Ralph Leighton — Memoir
+
 - [The Organized Mind: Thinking Straight in the Age of Information Overload](https://en.wikipedia.org/wiki/Daniel_J._Levitin#Books) by Daniel J. Levitin — Self-help
 - [Complexity: A Guided Tour](https://en.wikipedia.org/wiki/Complexity:_A_Guided_Tour) by Melanie Mitchell — Science
 - [The Daily Stoic](https://en.wikipedia.org/wiki/Ryan_Holiday#Books) by Ryan Holiday and Stephen Hanselman — Philosophy
@@ -47,12 +57,3 @@ This page tracks books I have finished and books that I would like to read somed
 - [Lying](https://en.wikipedia.org/wiki/Sam_Harris#Writings) by Sam Harris — Philosophy
 - [The Drunkard's Walk: How Randomness Rules Our Lives](https://en.wikipedia.org/wiki/The_Drunkard%27s_Walk) by Leonard Mlodinow — Science
 - [The Pleasures and Sorrows of Work](https://en.wikipedia.org/wiki/Alain_de_Botton#Works) by Alain de Botton — Culture
-- [Understand](https://en.wikipedia.org/wiki/Ted_Chiang_bibliography#Short_fiction) by Ted Chiang — Fiction
-- [How to Talk About Books You Haven't Read](https://en.wikipedia.org/wiki/How_to_Talk_About_Books_You_Haven%27t_Read) by Pierre Bayard — Culture
-
-## Books that I would like to read one day
-
-- [Hagakure](https://en.wikipedia.org/wiki/Hagakure) by Yamamoto Tsunetomo — History
-- [Mirrorshades: The Cyberpunk Anthology](https://en.wikipedia.org/wiki/Mirrorshades) edited by Bruce Sterling — Fiction
-- [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F) by Philip K. Dick — Fiction
-

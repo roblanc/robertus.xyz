@@ -4,11 +4,16 @@ title: Now
 
 What I am doing now.
 
+September, 2025
+
+- now using zed.dev as my default editor
+- getting back into minimalism practices
+- still fishing
+
 August, 2025
 
-- Developing skills in RPA automation.
-- Studying MySQL for database management.
-- Enhancing my Python scripting capabilities.
-- Re-engaging with analog writing practices.
-- Fishing.
-- Learning TypeScript.
+- dabbling with MySQL
+- Python scripting
+- re-engaging with analog writing practices
+- fishing
+- learning TypeScript
