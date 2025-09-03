@@ -17,7 +17,7 @@ insane how frequently the Chinese score completely free geopolitical wins by sim
 vocabulary
 - auraminned
 - turbo-normie
-
+- jestermaxxing (things Peter Thiel needs to learn more about this)
 
 
 

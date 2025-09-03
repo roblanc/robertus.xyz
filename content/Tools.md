@@ -69,6 +69,7 @@ tags:
 
 - [wavacity.com](https://wavacity.com/): Audacity ported to web
 #### Music Creation
+*   **[Strudel](https://strudel.cc/)**: A live coding platform for creating music in your browser.
 *   **[Riffusion](https://www.riffusion.com/)**: AI music generation.
 *   **[Suno AI](https://suno.com)**: AI music creation.
 
