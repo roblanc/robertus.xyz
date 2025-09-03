@@ -48,6 +48,7 @@ This page tracks books I have finished and books that I would like to read somed
 - [The Drunkard's Walk: How Randomness Rules Our Lives](https://en.wikipedia.org/wiki/The_Drunkard%27s_Walk) by Leonard Mlodinow — Science
 - [The Pleasures and Sorrows of Work](https://en.wikipedia.org/wiki/Alain_de_Botton#Works) by Alain de Botton — Culture
 - [Understand](https://en.wikipedia.org/wiki/Ted_Chiang_bibliography#Short_fiction) by Ted Chiang — Fiction
+- [How to Talk About Books You Haven't Read](https://en.wikipedia.org/wiki/How_to_Talk_About_Books_You_Haven%27t_Read) by Pierre Bayard — Culture
 
 ## Books that I would like to read one day
 
