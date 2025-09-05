@@ -96,6 +96,9 @@ tags:
 *   **[Pitch Avatar](https://www.pitchavatar.com/)**: Your AI assistant in slides delivery.
 *   **[Markmap](https://markmap.js.org/repl)**: Visualize your Markdown as mindmaps.
 
+#### Automation
+*   **[Browser Use](https://browser-use.com/)**: AI-powered browser agent to automate repetitive online tasks.
+
 #### Other Tools
 *   **[Beforesunset](https://www.beforesunset.ai)**: AI-powered to-do lists.
 *   **[Brevo](https://www.brevo.com/pricing)**: Email marketing platform.
@@ -136,6 +139,7 @@ tags:
 *   **[Spill](https://www.tryspill.com/)**: Visual conversation at the speed of culture.
 
 ### Software & Utilities and being a pirate
+*   **[LuLu](https://objective-see.org/products/lulu.html)**: LuLu is the free, open-source firewall designed to block unknown outgoing connections, safeguarding both your privacy and your Mac!
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
 *   **[appstorrent.ru](https://appstorrent.ru)**: Software distribution.
 *   **[BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)**: Automatically pause/unpause your music player when other audio sources are playing/stopped.
