@@ -130,5 +130,5 @@ Because in the digital space, you can act only upon what you can see, while in t
 - [https://en.wikipedia.org/wiki/Peripheral_vision](https://en.wikipedia.org/wiki/Peripheral_vision)
 - [Chair-based fidgeting and energy expenditure](https://pubmed.ncbi.nlm.nih.gov/27900194/)
 - [Prolonged sitting-induced leg endothelial dysfunction is prevented by fidgeting](https://pubmed.ncbi.nlm.nih.gov/27233765/)
-- [Peripheral vision via Andy Matuschak](https://www.notion.so/Peripheral-vision-via-a60045606d504b6f8d87de3c5937602b)
+- Peripheral vision via [[Andy Matuschak]]
 - [https://youtu.be/klTjiXjqHrQ](https://youtu.be/klTjiXjqHrQ)

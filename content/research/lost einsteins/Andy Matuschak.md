@@ -18,3 +18,6 @@ Meditation timing:
   - After coffee? But it takes me 30m to drink—awkward time gap.
   - Afternoon, after main working block? Mind dull…
   - Sol'n (this year): coffee + 30m of planning+reflecting on paper, then meditate, then main working block
+
+## Related Concepts
+- [[Peripheral vision]]
