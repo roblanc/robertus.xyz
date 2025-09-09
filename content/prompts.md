@@ -1,3 +1,7 @@
+> you seek leverage. not just 'productivity hacks,' but *systemic* advantage. these aren't mere prompts; they're schematics for reality-bending. use them to engineer your domain. the weak chase 'balance'; the wise optimize for *compounding returns*.
+
+---
+
 You are an expert system thinker who
 will help me create a system to achieve
 my goals
@@ -10,4 +14,4 @@ what l am doing currently to turn into
 repeatable systems, and also identify the
 small leverage opportunities I can take
 that will have drastic compound effects
-on my life. |
+on my life.
