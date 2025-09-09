@@ -1,32 +1,71 @@
 # My Setup
 
+This document outlines the hardware, software, and workflows I use daily.
+
 ## Devices
 
-- **MacBook Air (2017)**: macOS Monterey
-- **Mac Mini (2020)**: 16 GB RAM, latest macOS
-- **iPhone 13 Mini**: Main phone
+- **Main Machine**: Mac Mini (2020)
+  - **Processor**: Apple M1
+  - **Memory**: 16 GB RAM
+  - **Storage**: 512 GB SSD
+- **Laptop**: MacBook Air (2017)
+  - **Processor**: 1.6GHz Intel Core i5
+  - **Memory**: 8 GB RAM
+  - **Storage**: 128 GB SSD
+- **Phone**: iPhone 13 Mini
+
+### Peripherals
+
+- **Mouse**: Razer DeathAdder Essential
 
 ## Software
 
-### Browsers
+### Core Tools
 
-- **Brave Browser**: My main browser.
-- **Safari**: Secondary browser.
-- **Min**: To consider.
-- **Firefox**: For testing.
+- **Browser**: Brave Browser (main), Safari (secondary)
+- **IDE**: Zed (main), Visual Studio Code (secondary)
+- **Terminal**: iTerm2 with Zsh
+- **Launcher**: Raycast. My AI shortcut is always remapped to `Cmd+E`.
+- **Window Manager**: [AeroSpace](https://github.com/nikitabobko/AeroSpace) for tiling window management.
 
-### IDEs
+### Note-taking & Writing
 
-- **Zed**: Main IDE.
-- **Visual Studio Code**: Secondary IDE.
+- **Primary**: Obsidian and Craft for structured notes and writing.
+- **Secondary**: Bear, Notion, and Drafts for quick capture and ideation.
 
-### Terminal
+### AI & Productivity
 
-- **iTerm2**
+- **AI Assistants**: I frequently use GPT-4, Gemini 1.5, and Claude 3 for various tasks.
+- **AI Search**: Perplexity AI for research.
 
-### Other
+### Content Creation
 
-- [Raycast](https://www.raycast.com/)
-- [AeroSpace](https://github.com/nikitabobko/AeroSpace)
-- **Dia**: A diagramming tool. 
-  - **Note**: I always change the toggle AI shortcut to `Cmd+e`.
+- **Video Editing**: Adobe Premiere Pro, Descript
+- **Design**: Penpot, Framer
+
+### Development & Automation
+
+- **Containerization**: Docker
+- **Automation**: n8n for workflow automation.
+- **Scripting**: I rely on a personal collection of shell and Python scripts to automate repetitive tasks.
+- **Hosting**: Netlify and Vercel for deploying web projects.
+
+### Utilities
+
+- **Firewall**: LuLu for monitoring network connections.
+- **File Transfer**: Folx for managing downloads.
+
+## Workflow & Philosophy
+
+### Cross-Device Sync
+
+To maintain a consistent environment across my Macs, I use symbolic links. Key configuration files for my tools (like my AI assistant's memory) are stored in iCloud Drive. I then link to them from their expected local directories on each machine. This ensures my settings are always in sync, no matter where I am working.
+
+### Personal Operating System
+
+My productivity system is built on a set of plain text markdown files managed in my iCloud Drive. I maintain:
+- A long-term file for yearly goals and todos.
+- A daily journal for capturing tasks, logs, and ideas.
+- A comprehensive, categorized list of all the software and tools I use or find interesting.
+
+This text-based 'personal OS' is simple, portable, and powerful, allowing me to manage my life from any text editor.
