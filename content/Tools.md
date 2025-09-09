@@ -145,6 +145,7 @@ tags:
 *   **[appstorrent.org](https://appstorrent.org/windows-apps/)**: Windows apps distribution.
 *   **[BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)**: Automatically pause/unpause your music player when other audio sources are playing/stopped.
 *   **[Radio Silence](https://radiosilenceapp.com/)**: Block any app's internet access. Used to fix a pirated Premiere Pro version.
+*   **[Folx](https://mac-downloader.com/)**: Torrent client for Mac.
 
 ### Video recording
 - [Kite.video](https://kite.video/): a screen recorder that makes your demo videos look like Apple commercials
