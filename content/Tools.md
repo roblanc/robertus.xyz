@@ -142,6 +142,7 @@ tags:
 *   **[LuLu](https://objective-see.org/products/lulu.html)**: LuLu is the free, open-source firewall designed to block unknown outgoing connections, safeguarding both your privacy and your Mac!
 *   **[Foliate](https://johnfactotum.github.io/foliate/)**: A simple and modern eBook viewer.
 *   **[appstorrent.ru](https://appstorrent.ru)**: Software distribution.
+*   **[appstorrent.org](https://appstorrent.org/windows-apps/)**: Windows apps distribution.
 *   **[BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)**: Automatically pause/unpause your music player when other audio sources are playing/stopped.
 *   **[Radio Silence](https://radiosilenceapp.com/)**: Block any app's internet access. Used to fix a pirated Premiere Pro version.
 
