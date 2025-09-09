@@ -1,16 +1,32 @@
 # My Setup
 
-## Hardware
+## Devices
 
-- **Model:** MacBook Air (MacBookAir7,2)
-- **Processor:** 1.6 GHz Dual-Core Intel Core i5
-- **Memory:** 8 GB
+- **MacBook Air (2017)**: macOS Monterey
+- **Mac Mini (2020)**: 16 GB RAM, latest macOS
+- **iPhone 13 Mini**: Main phone
 
 ## Software
 
-- [Raycast](https://www.raycast.com/)
-- [AeroSpace](https://github.com/nikitabobko/AeroSpace)
+### Browsers
+
 - **Brave Browser**: My main browser.
 - **Safari**: Secondary browser.
+- **Min**: To consider.
+- **Firefox**: For testing.
+
+### IDEs
+
+- **Zed**: Main IDE.
+- **Visual Studio Code**: Secondary IDE.
+
+### Terminal
+
+- **iTerm2**
+
+### Other
+
+- [Raycast](https://www.raycast.com/)
+- [AeroSpace](https://github.com/nikitabobko/AeroSpace)
 - **Dia**: A diagramming tool. 
   - **Note**: I always change the toggle AI shortcut to `Cmd+e`.
