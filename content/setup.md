@@ -1,3 +1,4 @@
+
 This document outlines the hardware, software, and workflows I use daily.
 
 ## Devices
@@ -52,6 +53,7 @@ This document outlines the hardware, software, and workflows I use daily.
 
 - **Firewall**: LuLu for monitoring network connections.
 - **File Transfer**: Folx for managing downloads.
+- **Torrents**: Flux for torrent management.
 
 ## Workflow & Philosophy
 
@@ -67,3 +69,8 @@ My productivity system is built on a set of plain text markdown files managed in
 - A comprehensive, categorized list of all the software and tools I use or find interesting.
 
 This text-based 'personal OS' is simple, portable, and powerful, allowing me to manage my life from any text editor.
+
+### Obsidian Plugins
+
+- **Natural Language Dates**: Install this plugin for easy date insertion.
+  - **Date Format**: `dddd, MMMM D, YYYY`
