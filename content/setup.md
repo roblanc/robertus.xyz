@@ -1,5 +1,3 @@
-# My Setup
-
 This document outlines the hardware, software, and workflows I use daily.
 
 ## Devices
