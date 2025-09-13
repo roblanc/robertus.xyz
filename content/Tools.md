@@ -117,6 +117,7 @@ tags:
 *   **[Hugging Face](https://huggingface.co/)**: The AI community building the future.
 *   **[Langchain](https://www.langchain.com/)**: Framework for developing applications powered by language models.
 *   **[Jstack](https://jstack.app)**: The stack for building seriously fast, lightweight and end-to-end typesafe applications.
+*   **[Dria](https://dria.co/)**: A knowledge-centric L3 for scaling AI with verifiable information.
 
 #### Scraping
 *   **[Parse](https://www.parse.bot/)**: Turn any website into a structured API using AI.

@@ -48,6 +48,7 @@ This document outlines the hardware, software, and workflows I use daily.
 - **Automation**: n8n for workflow automation.
 - **Scripting**: I rely on a personal collection of shell and Python scripts to automate repetitive tasks.
 - **Hosting**: Netlify and Vercel for deploying web projects.
+- **AI Development**: Dria for knowledge-centric AI.
 
 ### Utilities
 
