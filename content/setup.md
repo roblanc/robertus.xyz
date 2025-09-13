@@ -21,9 +21,9 @@ This document outlines the hardware, software, and workflows I use daily.
 
 ### Core Tools
 
-- **Browser**: Brave Browser (main), Safari (secondary)
+- **Browser**: Brave Browser (main), Safari (secondary), Dia (tertiary, with cool LLM integration and memory features)
 - **IDE**: Zed (main), Visual Studio Code (secondary)
-- **Terminal**: iTerm2 with Zsh
+- **Terminal**: iTerm2 with Zsh (main), Warp (secondary)
 - **Launcher**: Raycast. My AI shortcut is always remapped to `Cmd+E`.
 - **Window Manager**: [AeroSpace](https://github.com/nikitabobko/AeroSpace) for tiling window management.
 
