@@ -121,12 +121,17 @@ tags:
 #### Scraping
 *   **[Parse](https://www.parse.bot/)**: Turn any website into a structured API using AI.
 
+### Launchers & Search
+*   **[Cling](https://lowtechguys.com/cling/)**: A search tool that is better than Raycast.
+*   **[Raycast](https://www.raycast.com/)**: A popular launcher for macOS.
+
 ### Prompting
 *   **[SnackPrompt](https://www.snackprompt.com/)**: A platform for discovering, sharing, and using AI prompts.
 *   **[Agent GPT](https://agentgpt.reworkd.ai/)**: Autonomous AI agents in your browser.
 *   **[PromptHero](https://prompthero.com/)**: Search prompts for Stable Diffusion, DALL-E & Midjourney.
 
 ### Tool Aggregators & Discovery
+*   **[lowtechguys.com](https://lowtechguys.com/)**: A collection of tools and articles.
 *   **[ThereIsAnAIforThat](https://theresanaiforthat.com)**: A comprehensive database of AI tools.
 *   **[Foundr](https://foundr.ai/)**: Discover the best AI tools.
 *   **[AI Toolkit](https://www.producthunt.com/products/aitoolkit)**: A collection of AI tools.
@@ -147,6 +152,7 @@ tags:
 *   **[Radio Silence](https://radiosilenceapp.com/)**: Block any app's internet access. Used to fix a pirated Premiere Pro version.
 *   **[Folx](https://mac-downloader.com/)**: Torrent client for Mac.
 *   **[AeroSpace](https://github.com/nikitabobko/AeroSpace)**: Tiling window manager for macOS.
+*   **[Music Decoy](https://lowtechguys.com/musicdecoy/)**: Plays fake music when your boss is nearby.
 
 ### Video recording
 - [Kite.video](https://kite.video/): a screen recorder that makes your demo videos look like Apple commercials

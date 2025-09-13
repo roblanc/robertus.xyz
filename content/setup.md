@@ -24,7 +24,7 @@ This document outlines the hardware, software, and workflows I use daily.
 - **Browser**: Brave Browser (main), Safari (secondary), Dia (tertiary, with cool LLM integration and memory features)
 - **IDE**: Zed (main), Visual Studio Code (secondary)
 - **Terminal**: iTerm2 with Zsh (main), Warp (secondary)
-- **Launcher**: Raycast. My AI shortcut is always remapped to `Cmd+E`.
+- **Launcher**: Cling (main), Raycast (secondary). My AI shortcut is always remapped to `Cmd+E`.
 - **Window Manager**: [AeroSpace](https://github.com/nikitabobko/AeroSpace) for tiling window management.
 
 ### Note-taking & Writing
@@ -54,6 +54,7 @@ This document outlines the hardware, software, and workflows I use daily.
 - **Firewall**: LuLu for monitoring network connections.
 - **File Transfer**: Folx for managing downloads.
 - **Torrents**: Flux for torrent management.
+- **Music Decoy**: Plays fake music when your boss is nearby.
 
 ## Workflow & Philosophy
 
