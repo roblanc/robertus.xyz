@@ -5,9 +5,10 @@ description: list
 tags:
   - youtube
 ---
-cefaceI am doing YouTube as a hobby. Started a channel in 2016. This is a list of links to all of my youtube videos essays.
+I am doing YouTube as a hobby. Started a channel in 2016. This is a list of links to all of my youtube videos essays.
 
-
+[The 7 Levels of AI Ethics](https://youtu.be/dhKVDzFgUAo)
+[Bayesian Reasoning is the Cheat Code to Life](https://youtu.be/ksnV40dWtMY)
 1. [dead people make the best employees](https://youtu.be/N3xXjVwpKUM?si=9VLy7SavzQ0pBSlw)
 2. [why "traveling the world" won't make you happy](https://youtu.be/paz7skmiEs4?si=HR5a2l3Yw3pXTZF_)
 3. [the last human CEO](https://youtu.be/--67klZ-cNI?si=cDvlQnXeKrTgFSBj)
