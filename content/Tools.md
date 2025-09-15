@@ -155,6 +155,9 @@ tags:
 *   **[AeroSpace](https://github.com/nikitabobko/AeroSpace)**: Tiling window manager for macOS.
 *   **[Music Decoy](https://lowtechguys.com/musicdecoy/)**: Plays fake music when your boss is nearby.
 
+### Browser Extensions
+*   **[DeArrow](https://dearrow.ajay.app)**: An open-source browser extension for better titles and thumbnails on YouTube.
+
 ### Video recording
 - [Kite.video](https://kite.video/): a screen recorder that makes your demo videos look like Apple commercials
 

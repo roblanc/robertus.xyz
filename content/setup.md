@@ -7,7 +7,7 @@ This document outlines the hardware, software, and workflows I use daily.
   - **Processor**: Apple M1
   - **Memory**: 16 GB RAM
   - **Storage**: 512 GB SSD
-- **Laptop**: MacBook Air (2017)
+- **Laptop**: MacBook Air (2015)
   - **Processor**: 1.6GHz Intel Core i5
   - **Memory**: 8 GB RAM
   - **Storage**: 128 GB SSD
