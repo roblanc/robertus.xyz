@@ -23,7 +23,8 @@ This document outlines the hardware, software, and workflows I use daily.
 
 - **Browser**: Brave Browser (main), Safari (secondary), Dia (tertiary, with cool LLM integration and memory features)
 - **IDE**: Zed (main), Visual Studio Code (secondary)
-- **Terminal**: iTerm2 with Zsh (main), Warp (secondary)
+- **Terminal**: iTerm2 with Zsh (main), Warp (secondary), Ghostty (tertiary)
+  - [Ghostty Config](https://github.com/zerebos/ghostty-config)
 - **Launcher**: Cling (main), Raycast (secondary). My AI shortcut is always remapped to `Cmd+E`.
 - **Window Manager**: [AeroSpace](https://github.com/nikitabobko/AeroSpace) for tiling window management.
 
