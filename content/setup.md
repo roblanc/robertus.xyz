@@ -22,7 +22,8 @@ This document outlines the hardware, software, and workflows I use daily.
 
 - **Browser**: Brave Browser (main), Safari (secondary), Dia (tertiary, with cool LLM integration and memory features)
 - **IDE**: Zed (main), Visual Studio Code (secondary)
-- **Terminal**: iTerm2 with Zsh (main), Warp (secondary), Ghostty (tertiary)
+- **Terminal**: Hyper (main), iTerm2 with Zsh (secondary), Warp (tertiary), Ghostty (quaternary)
+  - **Font**: I use [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) to get glyphs and icons in my terminal.
   - [Ghostty Config](https://github.com/zerebos/ghostty-config)
 - **Launcher**: Cling (main), Raycast (secondary). My AI shortcut is always remapped to `Cmd+E`.
 - **Window Manager**: [AeroSpace](https://github.com/nikitabobko/AeroSpace) for tiling window management.
@@ -56,6 +57,7 @@ This document outlines the hardware, software, and workflows I use daily.
 - **File Transfer**: Folx for managing downloads.
 - **Torrents**: Flux for torrent management.
 - **Music Decoy**: Plays fake music when your boss is nearby.
+*   **[MagicQuit](https://magicquit.com/)**
 
 ## Workflow & Philosophy
 

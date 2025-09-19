@@ -111,6 +111,7 @@ tags:
 *   **[Cognosys](https://www.cognosys.ai/)**: Web-based AI agent to revolutionize productivity.
 
 ### Development & Technical
+*   **[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)**: Iconic font aggregator, collection, and patcher.
 *   **[Zed](https://zed.dev/)**: A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter (currently using)
 *   **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Powerful and modular diffusion model GUI.
 *   **[Touchdesigner](https://derivative.ca)**: Visual development platform.
@@ -169,3 +170,5 @@ tags:
 
 ### Command Line
 *   **[cheat.sh](https://github.com/chubin/cheat.sh?tab=readme-ov-file)**: Unified access to the best community-driven cheat sheets in one place.
+*   **[Hyper](https://hyper.is/)**: A beautiful and extensible cross-platform terminal emulator built on open web standards. ([Themes](https://hyper.is/themes))
+*   **[MagicQuit](https://magicquit.com/)**
