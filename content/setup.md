@@ -58,6 +58,8 @@ This document outlines the hardware, software, and workflows I use daily.
 - **Torrents**: Flux for torrent management.
 - **Music Decoy**: Plays fake music when your boss is nearby.
 *   **[MagicQuit](https://magicquit.com/)**
+	MagicQuit is a Mac app that automatically closes (quits) applications when you haven't used them for a specified period of time. It helps keep your macOS desktop cleaner, frees up memory, and enhances battery life by quitting idle apps without any manual intervention.
+
 
 ## Workflow & Philosophy
 
