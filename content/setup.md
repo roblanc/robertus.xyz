@@ -10,6 +10,15 @@ This document outlines the hardware, software, and workflows I use daily.
   - **Processor**: 1.6GHz Intel Core i5
   - **Memory**: 8 GB RAM
   - **Storage**: 128 GB SSD
+- **Old Windows PC**:
+  - **OS**: Windows 10 Pro (10.0.19045)
+  - **System**: Gigabyte Technology Co., Ltd.
+  - **Processor**: Intel64 Family 6 Model 94 Stepping 3 (~2.8 GHz)
+  - **Graphics**: NVIDIA GeForce GTX 950
+  - **Memory**: 4 GB RAM
+  - **Storage**:
+    - 250 GB Samsung SSD 860 EVO
+    - 500 GB WDC HDD
 - **Phone**: iPhone 13 Mini
 
 ### Peripherals
