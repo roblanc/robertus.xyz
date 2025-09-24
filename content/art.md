@@ -4,6 +4,9 @@ description: A scrapbook of digital artists I follow
 ---
 A short collection of accounts showcasing playful, dreamlike visuals. This is a list of artists I follow and whose work I enjoy.
 
+- [kiszkiloszki](https://giphy.com/kiszkiloszki) — Whimsical and often surreal animations that blend classical art with modern humor.
+- [peekasso](https://giphy.com/peekasso) — Surreal and humorous animations with a distinct collage style.
+- [thechemicalbrothers](https://giphy.com/thechemicalbrothers) — Iconic music videos and psychedelic visuals from the legendary electronic music duo.
 - [PERFECTL00P](https://giphy.com/PERFECTL00P) — Hypnotic, looping visuals with a retro-futuristic aesthetic.
 - [Macbaconai](https://x.com/Macbaconai) — A swirl of AI-driven color and whimsical experiments.
 - [hAyDiRoKeT](https://giphy.com/haydiroket) — Playful, surreal animations with a distinct, vibrant palette.
