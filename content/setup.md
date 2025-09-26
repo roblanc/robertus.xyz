@@ -31,6 +31,7 @@ This document outlines the hardware, software, and workflows I use daily.
 
 - **Browser**: Brave Browser (main), Safari (secondary), Dia (tertiary, with cool LLM integration and memory features)
 - **IDE**: Zed (main), Visual Studio Code (secondary)
+- **Org Mode in Zed**: I use the [Org extension](https://zed.dev/extensions/org) for Zed to manage my notes and tasks in Org Mode.
 - **Terminal**: Hyper (main, with `hyper-rename-tab` plugin), iTerm2 with Zsh (secondary), Warp (tertiary), Ghostty (quaternary)
   - **Font**: I use [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) to get glyphs and icons in my terminal.
   - [Ghostty Config](https://github.com/zerebos/ghostty-config)
