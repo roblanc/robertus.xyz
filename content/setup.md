@@ -118,3 +118,47 @@ color7                #eeeeee
 color15               #ffffff
 selection_foreground #0000a3
 ```
+
+## CLI Tools
+
+Here are all the CLI tools mentioned in the video “10 CLI apps that have actually improved the way I work in the terminal”:
+
+1.  **Zoxide**
+
+    A smarter, faster replacement for the `cd` command, using fuzzy matching to jump between directories efficiently.
+
+2.  **rg (Ripgrep)**
+
+    A modern, fast alternative to `grep` for searching text patterns in files, with sane defaults and recursive search.
+
+3.  **fd**
+
+    A user-friendly replacement for the `find` command, making file searches faster and more intuitive, with glob and regex support.
+
+4.  **tmux**
+
+    A terminal multiplexer that lets you manage multiple terminal sessions, panes, and windows, with session persistence and automation features.
+
+5.  **gh (GitHub CLI)**
+
+    Interact with GitHub directly from the terminal—create repos, check issues, and automate pull requests without opening a browser.
+
+6.  **doppler**
+
+    A CLI for secrets management, allowing you to inject environment variables securely for different environments (dev, prod, personal).
+
+7.  **pass (Password Store)**
+
+    A Unix password manager using GPG and Git, ideal for managing API tokens, database URLs, and passwords securely from the terminal.
+
+8.  **jq**
+
+    A powerful tool for parsing, filtering, and transforming JSON data in the terminal, essential for backend and fullstack developers.
+
+9.  **stow**
+
+    Manages dotfiles by creating symbolic links, making it easy to version control and share configurations across machines.
+
+10. **fzf (Fuzzy Finder)**
+
+    A fuzzy finding tool for the command line, great for interactive search and tab completion, and for building CLI apps with interactive selection.
