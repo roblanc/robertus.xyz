@@ -92,7 +92,9 @@ This text-based 'personal OS' is simple, portable, and powerful, allowing me to 
 - **Natural Language Dates**: Install this plugin for easy date insertion.
   - **Date Format**: `dddd, MMMM D, YYYY`
 
-## Kitty Terminal Theme
+## Kitty Terminal
+
+### Theme
 
 My terminal theme is based on the "Borland" theme. Here is the configuration from `current-theme.conf`:
 
@@ -119,6 +121,13 @@ color7                #eeeeee
 color15               #ffffff
 selection_foreground #0000a3
 tab_bar_edge top
+```
+
+### Configuration
+
+To make the title bar integrate with the terminal window, I use the following setting in `kitty.conf`:
+
+```kitty
 hide_window_decorations titlebar-only
 ```
 
