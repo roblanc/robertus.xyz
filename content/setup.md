@@ -118,6 +118,8 @@ color14               #dfdffe
 color7                #eeeeee
 color15               #ffffff
 selection_foreground #0000a3
+tab_bar_edge top
+hide_window_decorations titlebar-only
 ```
 
 ## CLI Tools
