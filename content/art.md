@@ -18,6 +18,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [MaxVOAO](https://x.com/MaxVOAO/media) — Scenes that feel like stills from a lost sci-fi reel.
 - [[AstralPostcards]] — Postcards from cosmic daydreams, washed in nostalgia.
 - [[BreezeChai]] — Gentle hues and quiet moments steeped like tea.
+- [inoiseguy](https://giphy.com/inoiseaguy) - noise textures and stuff
 
 ### Video Artists
 
