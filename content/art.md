@@ -24,7 +24,13 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 
 - [Gully](https://www.youtube.com/@Gully-Official/videos)
 
+### Street Artists
+
+- [These NYC Locals Sound Better Than SIGNED ARTISTS](https://youtu.be/6BUEx5zWHm0)
+
 ### Music Artists
 
 - **[Aphex Twin (Richard D. James)](https://aphextwin.warp.net/)** — A master of electronic music, known for his groundbreaking work in IDM, ambient, and experimental genres. His music is a chaotic yet beautiful blend of intricate rhythms, haunting melodies, and a signature, often unsettling, sense of humor. A true pioneer who redefined the boundaries of sound.
+- **[Jacob Collier](https://www.youtube.com/user/jacobcolliermusic)** — A multi-instrumentalist, composer, and producer known for his incredible musicianship and complex harmonies. His work often features intricate vocal arrangements and a joyful, experimental approach to music.
+  - [Jacob Collier Improvises the National Symphony Orchestra (Live from the Kennedy Center)](https://www.youtube.com/watch?v=TURkB9zqxa0)
 
