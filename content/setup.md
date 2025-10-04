@@ -91,6 +91,7 @@ This text-based 'personal OS' is simple, portable, and powerful, allowing me to 
 
 - **Natural Language Dates**: Install this plugin for easy date insertion.
   - **Date Format**: `dddd, MMMM D, YYYY`
+- **Theme**: When I use Obsidian, I prefer the Azure theme.
 
 ## Kitty Terminal
 
