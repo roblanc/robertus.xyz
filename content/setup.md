@@ -51,7 +51,7 @@ This document outlines the hardware, software, and workflows I use daily.
 
 ### Content Creation
 
-- **Video Editing**: Adobe Premiere Pro, Descript
+- **Video Editing**: Adobe Premiere Pro, Descript, OBS Studio
 - **Design**: Penpot, Framer
 
 ### Development & Automation
@@ -175,3 +175,10 @@ Here are all the CLI tools mentioned in the video “10 CLI apps that have actua
 10. **fzf (Fuzzy Finder)**
 
     A fuzzy finding tool for the command line, great for interactive search and tab completion, and for building CLI apps with interactive selection.
+https://suckless.org/ - Suckless.org is a community that creates minimalist, high-quality software, focusing on simplicity, clarity, and frugality.
+https://github.com/normen/whatscli - A command-line interface (CLI) for WhatsApp, allowing users to send/receive messages, manage groups, and handle attachments from the terminal.
+https://github.com/tw93/Mole - A terminal-based tool designed to clean and optimize macOS systems, offering deep system cleanup, thorough application uninstallation, and an interactive disk analyzer.
+
+## Nice to Have
+
+*   [Mini PC Geekom MiniAir 11 cu procesor Intel Celeron N5095 pana la 2.9 GHz, 256GB SSD, 8GB RAM, Intel UHD Graphics, Dual WiFi, BT, HDMI, Windows 11, Negru](https://www.emag.ro/mini-pc-geekom-miniair-11-cu-procesor-intel-celeron-n5095-pana-la-2-9-ghz-256gb-ssd-8gb-ram-intel-uhd-graphics-dual-wifi-bt-hdmi-windows-11-negru-gkm-miniair11-256gb-blk/pd/D88MJMYBM/)

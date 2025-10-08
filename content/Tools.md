@@ -172,3 +172,4 @@ tags:
 *   **[cheat.sh](https://github.com/chubin/cheat.sh?tab=readme-ov-file)**: Unified access to the best community-driven cheat sheets in one place.
 *   **[Hyper](https://hyper.is/)**: A beautiful and extensible cross-platform terminal emulator built on open web standards. ([Themes](https://hyper.is/themes))
 *   **[MagicQuit](https://magicquit.com/)**
+https://suckless.org/ - Suckless.org is a community that creates minimalist, high-quality software, focusing on simplicity, clarity, and frugality.
