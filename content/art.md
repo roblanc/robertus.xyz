@@ -26,7 +26,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 
 ### Street Artists
 
-- [These NYC Locals Sound Better Than SIGNED ARTISTS](https://youtu.be/6BUEx5zWHm0)
+- [These NYC Locals Sound Better Than SIGNED ARTISTS](https://youtu.be/6BUEx5zWH0)
 
 ### Music Artists
 
@@ -34,3 +34,4 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - **[Jacob Collier](https://www.youtube.com/user/jacobcolliermusic)** — A multi-instrumentalist, composer, and producer known for his incredible musicianship and complex harmonies. His work often features intricate vocal arrangements and a joyful, experimental approach to music.
   - [Jacob Collier Improvises the National Symphony Orchestra (Live from the Kennedy Center)](https://www.youtube.com/watch?v=TURkB9zqxa0)
 
+I also find anime another kind of art as well. You can check the [[My Anime Watchlist|animes I've watched and some lessons I picked up from each]].
