@@ -182,3 +182,5 @@ https://github.com/tw93/Mole - A terminal-based tool designed to clean and optim
 ## Nice to Have
 
 *   [Mini PC Geekom MiniAir 11 cu procesor Intel Celeron N5095 pana la 2.9 GHz, 256GB SSD, 8GB RAM, Intel UHD Graphics, Dual WiFi, BT, HDMI, Windows 11, Negru](https://www.emag.ro/mini-pc-geekom-miniair-11-cu-procesor-intel-celeron-n5095-pana-la-2-9-ghz-256gb-ssd-8gb-ram-intel-uhd-graphics-dual-wifi-bt-hdmi-windows-11-negru-gkm-miniair11-256gb-blk/pd/D88MJMYBM/)
+
+I have an old laptop with Debian 11 installed, that is a Compaqnx9420 laptop
