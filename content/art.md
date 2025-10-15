@@ -35,3 +35,5 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
   - [Jacob Collier Improvises the National Symphony Orchestra (Live from the Kennedy Center)](https://www.youtube.com/watch?v=TURkB9zqxa0)
 
 I also find anime another kind of art as well. You can check the [[My Anime Watchlist|animes I've watched and some lessons I picked up from each]].
+
+![weird ekdojo matthieubourel](https://media.giphy.com/media/SWu9bleX2RHJvpPSkx/giphy.gif)
