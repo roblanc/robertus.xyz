@@ -20,7 +20,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [BreezeChai](https://x.com/breezechai?lang=en) — Gentle hues and quiet moments steeped like tea.
 - [inoiseguy](https://giphy.com/inoiseaguy) - noise textures and stuff
 - [ekdojo](https://giphy.com/Ekdojo) - Power of images and their combinations. Therefore all kinds of diversions. As well in music, sounds or films. Playing with elements.
-
+- [abklive](https://giphy.com/abklive) — Giphy channel with 92 uploads and 362.7M views.
 ### Video Artists
 
 - [Gully](https://www.youtube.com/@Gully-Official/videos)
