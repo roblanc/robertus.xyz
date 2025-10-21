@@ -158,6 +158,7 @@ tags:
 
 ### Browser Extensions
 *   **[DeArrow](https://dearrow.ajay.app)**: An open-source browser extension for better titles and thumbnails on YouTube.
+*   **[SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-get-all-the-s/eafjmnaiohflfhelegodfedimibnjpgp)**: A Chrome extension to quickly preview and get all the SVG assets from a website.
 
 ### Video recording
 - [Kite.video](https://kite.video/): a screen recorder that makes your demo videos look like Apple commercials
