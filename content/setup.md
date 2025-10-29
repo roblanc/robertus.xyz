@@ -47,12 +47,17 @@ This document outlines the hardware, software, and workflows I use daily.
 ### AI & Productivity
 
 - **AI Assistants**: I frequently use GPT-4, Gemini 1.5, and Claude 3 for various tasks.
+- **WisprFlow**: https://wisprflow.ai/ - An AI-powered voice dictation platform designed to convert speech into text across various applications, enabling users to write, edit, and control documents significantly faster than traditional typing. It leverages advanced AI to understand natural speech, execute context-aware commands, and perform real-time auto-edits, providing a seamless and personalized writing experience.
 - **AI Search**: Perplexity AI for research.
 
 ### Content Creation
 
 - **Video Editing**: Adobe Premiere Pro, Descript, OBS Studio
 - **Design**: Penpot, Framer
+
+### Accessibility & Voice Control
+
+- **Talon Voice**: https://talonvoice.com/ - A voice-based accessibility software that allows users to control their computer using their voice, eye tracking, or other noises. It is particularly useful for individuals with physical disabilities or those who want to reduce repetitive strain from using traditional input methods like a keyboard or mouse. It enables hands-free input, is highly customizable through Python scripts, runs locally, and supports multiple platforms.
 
 ### Development & Automation
 
