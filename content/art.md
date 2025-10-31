@@ -21,6 +21,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [inoiseguy](https://giphy.com/inoiseaguy) - noise textures and stuff
 - [ekdojo](https://giphy.com/Ekdojo) - Power of images and their combinations. Therefore all kinds of diversions. As well in music, sounds or films. Playing with elements.
 - [abklive](https://giphy.com/abklive) — Giphy channel with 92 uploads and 362.7M views.
+- [ryanseslow](https://giphy.com/ryanseslow/) — Digital artist and educator exploring glitch art, animated GIFs, and multimedia storytelling through bold, looping visuals.
 ### Video Artists
 
 - [Gully](https://www.youtube.com/@Gully-Official/videos)
@@ -31,8 +32,8 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 
 ### Music Artists
 
-- **[Aphex Twin (Richard D. James)](https://aphextwin.warp.net/)** — A master of electronic music, known for his groundbreaking work in IDM, ambient, and experimental genres. His music is a chaotic yet beautiful blend of intricate rhythms, haunting melodies, and a signature, often unsettling, sense of humor. A true pioneer who redefined the boundaries of sound.
-- **[Jacob Collier](https://www.youtube.com/user/jacobcolliermusic)** — A multi-instrumentalist, composer, and producer known for his incredible musicianship and complex harmonies. His work often features intricate vocal arrangements and a joyful, experimental approach to music.
+- **[Aphex Twin (Richard D. James)](https://aphextwin.warp.net/)** — A master of electronic music, known for his groundbreaking work in IDM, ambient, and experimental genres. His music is a chao[...]
+- **[Jacob Collier](https://www.youtube.com/user/jacobcolliermusic)** — A multi-instrumentalist, composer, and producer known for his incredible musicianship and complex harmonies. His work ofte[...]
   - [Jacob Collier Improvises the National Symphony Orchestra (Live from the Kennedy Center)](https://www.youtube.com/watch?v=TURkB9zqxa0)
 
 ### Retro Game Music
