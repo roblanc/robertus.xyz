@@ -15,6 +15,7 @@ tags:
 *   **[Grok](https://grok.x.ai/)**: Learning, news, fun, free speech.
 *   **[Gemini 1.5](https://gemini.google.com/)**: Working with large text contexts.
 *   **[Claude 3](https://www.anthropic.com/claude)**: Natural-sounding conversations.
+*   **[Pippit AI](https://www.pippit.ai/?enter_from=page_header&page_from=website_pricing_page)**: AI-powered tool for something (I'll leave the description generic as I don't have more info).
 *   **[Perplexity AI](https://www.perplexity.ai/)**: Deep-dive research on topics.
 *   **[Chatsonic](https://writesonic.com/chat)**: AI Chatbot.
 *   **[GPT4All](https://gpt4all.io/)**: A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
