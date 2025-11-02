@@ -17,6 +17,9 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [Macbaconai](https://x.com/Macbaconai) — A swirl of AI-driven color and whimsical experiments.
 - [MaxVOAO](https://x.com/MaxVOAO/media) — Scenes that feel like stills from a lost sci-fi reel.
 - [AstralPostcards](https://x.com/AstralPostcards) — Postcards from cosmic daydreams, washed in nostalgia.
+- [RenatoxMarini](https://x.com/RenatoxMarini) — Digital artist with a unique style.
+- [Manifold](https://manifold.xyz/) — A platform for creators to mint NFTs.
+- [fuzzyghost](https://giphy.com/fuzzyghost) — Giphy channel with unique animations.
 - [BreezeChai](https://x.com/breezechai?lang=en) — Gentle hues and quiet moments steeped like tea.
 - [inoiseguy](https://giphy.com/inoiseaguy) - noise textures and stuff
 - [ekdojo](https://giphy.com/Ekdojo) - Power of images and their combinations. Therefore all kinds of diversions. As well in music, sounds or films. Playing with elements.
