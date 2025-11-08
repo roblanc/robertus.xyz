@@ -183,6 +183,7 @@ Here are all the CLI tools mentioned in the video “10 CLI apps that have actua
 https://suckless.org/ - Suckless.org is a community that creates minimalist, high-quality software, focusing on simplicity, clarity, and frugality.
 https://github.com/normen/whatscli - A command-line interface (CLI) for WhatsApp, allowing users to send/receive messages, manage groups, and handle attachments from the terminal.
 https://github.com/tw93/Mole - A terminal-based tool designed to clean and optimize macOS systems, offering deep system cleanup, thorough application uninstallation, and an interactive disk analyzer.
+https://dooit-org.github.io/dooit/ - A cool, interactive, terminal-based todo manager.
 
 ## Nice to Have
 
