@@ -36,7 +36,7 @@ This document outlines the hardware, software, and workflows I use daily.
   - **Font**: I use [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) to get glyphs and icons in my terminal.
   - **Preferred Fonts**: JetBrains Mono, Google Sans Code
   - [Ghostty Config](https://github.com/zerebos/ghostty-config)
-- **Launcher**: Cling (main), Raycast (secondary). My AI shortcut is always remapped to `Cmd+E`.
+- **Launcher**: [Cling](https://lowtechguys.com/cling/) (main) - An instant fuzzy-search finder and launcher for macOS. Raycast (secondary). My AI shortcut is always remapped to `Cmd+E`.
 - **Window Manager**: [AeroSpace](https://github.com/nikitabobko/AeroSpace) for tiling window management.
 
 ### Note-taking & Writing
