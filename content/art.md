@@ -28,6 +28,7 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 ### Video Artists
 
 - [Gully](https://www.youtube.com/@Gully-Official/videos)
+- [Woofer](https://www.youtube.com/@WOOFEROS/videos) — A journey into the weird and wonderful, with a unique retro, VHS-style aesthetic.
 
 ### Street Artists
 
