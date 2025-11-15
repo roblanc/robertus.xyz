@@ -88,7 +88,7 @@ These are some high-signal sources for shaping a progress-focused mind.
 
 ### 🧪 Fun & random
 ### ctrlcreep.net
-* ctrlcreep.net is a personal, experimental website described as “a gloam cave for autochthonous nudibranchs,” featuring links to creative projects, writing, and social profiles.
+* https://ctrlcreep.net is a personal, experimental website described as “a gloam cave for autochthonous nudibranchs,” featuring links to creative projects, writing, and social profiles.
 ### [FutureHouse](https://www.futurehouse.org/)
 - Non-profit building AI agents to automate research in biology and other complex sciences.
 ### [Art Chaidarun](https://chaidarun.com/blog)

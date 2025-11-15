@@ -14,7 +14,6 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [Colin Macfadyen](https://colinmacfadyen.info/) — Psychedelic, mind-bending looping animations.
 - [Lucas Zanotto](https://lucaszanotto.com/) — Seamless animation loops, often with humorous and whimsical elements.
 - [alexandratiff](https://x.com/alexandratiff) — Digital artist.
-- [Macbaconai](https://x.com/Macbaconai) — A swirl of AI-driven color and whimsical experiments.
 - [MaxVOAO](https://x.com/MaxVOAO/media) — Scenes that feel like stills from a lost sci-fi reel.
 - [AstralPostcards](https://x.com/AstralPostcards) — Postcards from cosmic daydreams, washed in nostalgia.
 - [RenatoxMarini](https://x.com/RenatoxMarini) — Digital artist with a unique style.

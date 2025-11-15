@@ -82,21 +82,6 @@ Here are some other projects from my GitHub profile. Descriptions and details to
 
 **GitHub Repository:** [https://github.com/roblanc/PassLeaf](https://github.com/roblanc/PassLeaf)
 
-### qa-todo-project
-
-**Description:** A simple, vanilla JavaScript To-Do List web application built with HTML, CSS, and JavaScript. This project serves as a practical exercise for learning and applying fundamental Quality Assurance (QA) principles, including manual testing, test case design, and bug reporting. It has been further enhanced with **Automated UI Testing using Playwright**, demonstrating end-to-end test automation capabilities.
-
-**Automated Tests Implemented (using Playwright):**
-*   Verify page title.
-*   Add a new task.
-*   Mark a task as complete.
-*   Delete a task.
-*   Persist tasks after page reload.
-
-**Current QA Status:** All defined functional test cases (TC-001 to TC-006) are passing. The project is ready for further QA exploration, including exploratory testing, edge case testing, UI/UX review, and expansion of test cases.
-
-**GitHub Repository:** [https://github.com/roblanc/qa-todo-project](https://github.com/roblanc/qa-todo-project)
-
 ### romanian-word-ap
 
 **Description:** (Placeholder: Add description)
