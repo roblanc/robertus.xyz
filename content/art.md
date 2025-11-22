@@ -4,6 +4,7 @@ description: A scrapbook of digital artists I follow
 ---
 A short collection of accounts showcasing playful, dreamlike visuals. This is a list of artists I follow and whose work I enjoy.
 
+- [Taki Munk](https://x.com/takimunk) — fuses surreal, futuristic visions of human-AI symbiosis with intricate circuit board architectures and metallic golden elements against deep blue backdrops, evoking a sense of technological transcendence.
 - [kiszkiloszki](https://giphy.com/kiszkiloszki) — Whimsical and often surreal animations that blend classical art with modern humor.
 - [peekasso](https://giphy.com/peekasso) — Surreal and humorous animations with a distinct collage style.
 - [thechemicalbrothers](https://giphy.com/thechemicalbrothers) — Iconic music videos and psychedelic visuals from the legendary electronic music duo.
