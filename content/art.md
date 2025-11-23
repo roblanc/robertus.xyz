@@ -26,9 +26,9 @@ A short collection of accounts showcasing playful, dreamlike visuals. This is a 
 - [abklive](https://giphy.com/abklive) — Giphy channel with 92 uploads and 362.7M views.
 - [ryanseslow](https://giphy.com/ryanseslow/) — Digital artist and educator exploring glitch art, animated GIFs, and multimedia storytelling through bold, looping visuals.
 ### Video Artists
-
-- [Gully](https://www.youtube.com/@Gully-Official/videos)
-- [Woofer](https://www.youtube.com/@WOOFEROS/videos) — A journey into the weird and wonderful, with a unique retro, VHS-style aesthetic.
+- [Wormwood](https://www.youtube.com/watch?v=1LwRYjKJpCA&list=RD1LwRYjKJpCA&start_radio=1) a satirical, surreal sketch channel mixing dark humor with internet absurdism.
+- [Gully](https://www.youtube.com/@Gully-Official/videos) a small philosophy channel exploring perception, complexity, and meaning through short videos.
+- [Woofer](https://www.youtube.com/@WOOFEROS/videos) a journey into the weird and wonderful, with a unique retro, VHS-style aesthetic.
 
 ### Street Artists
 
