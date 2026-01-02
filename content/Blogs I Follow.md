@@ -149,3 +149,12 @@ These are some high-signal sources for shaping a progress-focused mind.
 * Meaningness is an evolving guide to understanding and navigating meaning, meaninglessness, ethics, and purpose in life.
 ### [Indie Hackers](https://www.indiehackers.com/)
 * Indie Hackers is an online community where entrepreneurs and developers share strategies, revenue numbers, and stories about building profitable online businesses.
+
+---
+
+## 📌 Favorite Articles
+
+Individual pieces worth revisiting:
+
+### [You Will Be Ok - LessWrong](https://www.lesswrong.com/posts/fwQburGDyGoSSweT9/you-will-be-ok)
+* A thoughtful piece on resilience and perspective during difficult times.
