@@ -158,3 +158,6 @@ Individual pieces worth revisiting:
 
 ### [You Will Be Ok - LessWrong](https://www.lesswrong.com/posts/fwQburGDyGoSSweT9/you-will-be-ok)
 * A thoughtful piece on resilience and perspective during difficult times.
+
+### [Video](https://youtu.be/5mijkyEZS2o?si=MDbN-de_m3ecSoWw)
+* Worth watching.
