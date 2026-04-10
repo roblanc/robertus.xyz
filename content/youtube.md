@@ -214,3 +214,4 @@ I am doing YouTube as a hobby. Started a channel in 2016. This is a list of link
 205. [Fight Club: A Case Study in Nihilism & Anarchy - YouTube](https://www.youtube.com/watch?v=9njgY2MUBpc)
 206. [Creating an Iconic Brand: Tips from Apple's Playbook - YouTube](https://www.youtube.com/watch?v=SjBYaLOw1mg&feature=youtu.be)
 207. [How To Read a Book a Week (my first YouTube video) - YouTube](https://www.youtube.com/watch?si=yhUAFEULihHMriXT&v=moMQpxKWjAU&feature=youtu.be)
+208. [Why You Should Stop Being Good At Your Job - YouTube](https://youtu.be/oJLWCRhmIkY)
