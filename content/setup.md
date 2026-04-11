@@ -71,6 +71,16 @@ claude plugin marketplace add JuliusBrussee/caveman && claude plugin install cav
 
 Activate with `/caveman`. Three intensity levels: lite, full, ultra.
 
+#### [autoskills](https://github.com/midudev/autoskills)
+
+> one command. your entire AI skill stack. installed.
+
+Scans your project, detects your tech stack, and installs the best matching AI agent skills automatically. If Claude Code is targeted, generates a `CLAUDE.md` summary from the installed skills.
+
+```bash
+npx autoskills
+```
+
 ### Content Creation
 
 - **Video Editing:** Adobe Premiere Pro, Descript, OBS Studio
