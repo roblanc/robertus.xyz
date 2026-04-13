@@ -88,6 +88,8 @@ npx autoskills
 
 ### Accessibility & Voice Control
 
+- **VoiceCPM** — Local voice cloner. Runs entirely on-device (M4). Clone a voice from a short audio sample and synthesize speech in that voice without sending data to any cloud service.
+
 - **Talon Voice:** [talonvoice.com](https://talonvoice.com/) — A voice-based accessibility software that allows users to control their computer using their voice, eye tracking, or other noises. Highly customizable through Python scripts, runs locally, supports multiple platforms.
 
 ### Development & Automation
