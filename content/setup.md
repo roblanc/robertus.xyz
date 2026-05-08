@@ -71,6 +71,17 @@ claude plugin marketplace add JuliusBrussee/caveman && claude plugin install cav
 
 Activate with `/caveman`. Three intensity levels: lite, full, ultra.
 
+#### [NadirClaw](https://github.com/NadirRouter/NadirClaw)
+
+> routes simple prompts to cheap models, complex ones to premium — automatically
+
+Open-source LLM router and AI cost optimizer. Drop-in OpenAI-compatible proxy that works with Claude Code, Codex, Cursor, and OpenClaw. Self-hosted, no middleman. Saves 40–70% on AI API costs.
+
+```bash
+# self-hosted, OpenAI-compatible proxy
+# configure your Claude Code / Cursor to point to localhost
+```
+
 #### [autoskills](https://github.com/midudev/autoskills)
 
 > one command. your entire AI skill stack. installed.
