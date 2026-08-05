@@ -1,0 +1,4 @@
+# url	saved	destination	outcome
+# Dedupe ledger. One row per capture the pipeline has seen, appended at triage
+# time. Never edit by hand except to force a re-run: delete the row and drop the
+# URL back into inbox/.
