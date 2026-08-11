@@ -175,23 +175,6 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
-  - source: "@quartz-community/note-properties"
-    enabled: true
-    options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
-      hidePropertiesView: false
-      delimiters: ---
-      language: yaml
-    order: 5
-    layout:
-      position: beforeBody
-      priority: 15
-      display: all
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
