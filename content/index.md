@@ -1,7 +1,6 @@
 ---
 title: hi.
 description: about me
-tags:
 ---
 Dear fellow internet dweller,
 
