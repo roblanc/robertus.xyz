@@ -3,4 +3,6 @@ published: true
 website_url: https://robertus.xyz/notes/The-Problem-with-Utilitarianism
 ---
 
-→ [[Learning/Concepts/Utilitarianism]]
+[Hedonic utilitarianism](./Hedonic utilitarianism.md)
+
+[Rule utilitarianism](./Rule utilitarianism.md)
