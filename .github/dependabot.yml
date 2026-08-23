@@ -4,6 +4,18 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    ignore:
+      # majors that break Quartz 4 build/typecheck (verified 2026-08-23)
+      - dependency-name: "js-yaml"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "chalk"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "flexsearch"
+        update-types: ["version-update:semver-minor", "version-update:semver-major"]
+      - dependency-name: "globby"
+        update-types: ["version-update:semver-major"]
     groups:
       production-dependencies:
         applies-to: "version-updates"
