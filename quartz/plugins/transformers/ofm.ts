@@ -488,7 +488,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 node.data = {
                   hProperties: {
                     ...(node.data?.hProperties ?? {}),
-                    className: classNames.join(" "),
+                    className: classNames,
                     "data-callout": calloutType,
                     "data-callout-fold": collapse,
                     "data-callout-metadata": calloutMetaData,
@@ -500,7 +500,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   const contentData: BlockContent | DefinitionContent = {
                     data: {
                       hProperties: {
-                        className: "callout-content",
+                        className: ["callout-content"],
                       },
                       hName: "div",
                     },
@@ -756,9 +756,9 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                                         tagName: "line",
                                         properties: {
                                           x1: 18,
-                                          y1: 6,
+                                          y1: "6",
                                           x2: 6,
-                                          y2: 18,
+                                          y2: "18",
                                         },
                                         children: [],
                                       },
@@ -766,10 +766,10 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                                         type: "element",
                                         tagName: "line",
                                         properties: {
-                                          x1: 6,
-                                          y1: 6,
-                                          x2: 18,
-                                          y2: 18,
+                                          x1: "6",
+                                          y1: "6",
+                                          x2: "18",
+                                          y2: "18",
                                         },
                                         children: [],
                                       },
