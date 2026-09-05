@@ -2,6 +2,7 @@
 title: "Lost Einsteins"
 date: 2025-09-14
 description: "Redirecting to the Lost Einsteins collection in Craft."
+draft: true
 ---
 
 <meta http-equiv="refresh" content="0; url=https://robertus.craft.me/qFeKDpWlRPY5Tc">
