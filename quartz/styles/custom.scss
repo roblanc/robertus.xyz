@@ -69,26 +69,27 @@ h1, h2, h3, h4, h5, h6, .page-title {
   color: var(--dark);
 }
 
-/* Links — monochrome, no chromatic primary */
+/* Links — blue accent restored */
 a {
-  color: #211922;
+  color: var(--secondary);
   text-underline-offset: 2px;
 }
 a:hover {
-  color: var(--dark) !important;
+  color: var(--tertiary) !important;
 }
 
-/* Cards / surfaces — flat, no shadows, soft corners, border #C8C8C1 */
-.card,
-.graph,
-.toc,
-.backlinks,
-.search,
-.explorer,
-footer {
+/* Surfaces — keep flat, no shadows, but DON'T box the nav */
+.card {
   border: 0.625px solid var(--border-color);
   border-radius: var(--radius-card);
   background: var(--light);
+  box-shadow: none !important;
+}
+/* nav chrome stays clean — no boxes */
+.graph, .toc, .backlinks, .search, .explorer, footer {
+  border: none;
+  border-radius: 0;
+  background: transparent;
   box-shadow: none !important;
 }
 
