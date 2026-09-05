@@ -33,10 +33,6 @@ You’ve managed to find your way into my working notes, which I’ve accumulate
 - [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
 - [No One is Really Working](https://www.humaninvariant.com/blog/working)
 
-#### My Projects
-
-- [[Projects]]
-
 #### Connect
 👋 Hrodebert [email](mailto:theroblanc@gmail.com), [Twitter](https://twitter.com/rtheoryxyz), [Instagram](https://www.instagram.com/rtheory.xyz/)
 

@@ -86,7 +86,7 @@ description: Mirror of robertus.xyz — homepage structure + all published pages
 - [[Website/research/lost-einsteins/Sam Hyde|Sam Hyde]]
 
 ### Standalone Pages
-[[Website/art|Art]] · [[Website/books|Books]] · [[Website/music|Music]] · [[Website/projects|Projects]] · [[Website/prompts|Prompts]] · [[Website/poetry|Poetry]] · [[Website/youtube|YouTube]] · [[Website/setup|Setup]] · [[Website/anime-list|My Anime Watchlist]] · [[Website/now|Now]] · [[Website/blogs-I-Follow|Blogs I Follow]] · [[Website/awesome-websites|Awesome Websites]] · [[Website/Peripheral-vision|Peripheral Vision]] · [[Website/compression|Compression]] · [[Website/questions-for-ai|Questions for AI]] · [[Website/the-last-human-CEO|The Last Human CEO]] · [[Website/Tools|Tools]]
+[[Website/art|Art]] · [[Website/books|Books]] · [[Website/music|Music]] · [[Website/prompts|Prompts]] · [[Website/poetry|Poetry]] · [[Website/youtube|YouTube]] · [[Website/setup|Setup]] · [[Website/anime-list|My Anime Watchlist]] · [[Website/now|Now]] · [[Website/blogs-I-Follow|Blogs I Follow]] · [[Website/awesome-websites|Awesome Websites]] · [[Website/Peripheral-vision|Peripheral Vision]] · [[Website/compression|Compression]] · [[Website/questions-for-ai|Questions for AI]] · [[Website/the-last-human-CEO|The Last Human CEO]] · [[Website/Tools|Tools]]
 
 ---
 
