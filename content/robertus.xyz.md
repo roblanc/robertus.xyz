@@ -1,5 +1,6 @@
 ---
 type: index
+draft: true
 description: Mirror of robertus.xyz — homepage structure + all published pages. Use this to compare with vault content when deciding what to publish next.
 ---
 # [robertus.xyz](https://robertus.xyz)
