@@ -16,26 +16,134 @@
   font-display: swap;
 }
 
+/* — Monochrome Soft Design System · 4px grid · flat · CP Mono kept — */
+:root {
+  --radius-button: 16px;
+  --radius-card: 16px;
+  --radius-input: 12px;
+  --border-color: #C8C8C1;
+  --focus-ring: 0 0 0 2px rgb(0, 99, 155);
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --motion-duration: 0.085s;
+  --motion-ease: ease-out;
+}
+
+* {
+  transition-duration: var(--motion-duration);
+  transition-timing-function: var(--motion-ease);
+}
+
 body {
-  line-height: 1.65;
+  line-height: 1.4;
   letter-spacing: 0.01em;
   font-variant-ligatures: none;
   hyphens: none;
+  background: var(--light);
+  color: var(--darkgray);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-.page-title {
+/* Type scale — spec 16/14/12, keep CP Mono but adopt rhythm */
+h1 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+}
+h2 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+}
+h3, h4 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+h1, h2, h3, h4, h5, h6, .page-title {
   letter-spacing: 0.02em;
   text-transform: none;
+  color: var(--dark);
 }
 
+/* Links — monochrome, no chromatic primary */
+a {
+  color: #211922;
+  text-underline-offset: 2px;
+}
+a:hover {
+  color: var(--dark) !important;
+}
+
+/* Cards / surfaces — flat, no shadows, soft corners, border #C8C8C1 */
+.card,
+.graph,
+.toc,
+.backlinks,
+.search,
+.explorer,
+footer {
+  border: 0.625px solid var(--border-color);
+  border-radius: var(--radius-card);
+  background: var(--light);
+  box-shadow: none !important;
+}
+
+/* Buttons — #FFFFFF bg, #211922 text, 16px radius, 400 weight */
+button,
+a.internal.tag-link,
+.search-button {
+  background: #FFFFFF;
+  color: #211922;
+  border: 0.625px solid #C1C1C1;
+  border-radius: var(--radius-button);
+  font-weight: 400;
+  transition: background var(--motion-duration) var(--motion-ease), color var(--motion-duration) var(--motion-ease), border-color var(--motion-duration) var(--motion-ease);
+}
+button:hover {
+  background: var(--lightgray);
+  border-color: var(--border-color);
+}
+
+/* Inputs — #FFFFFF bg, 0.625px solid #C1C1C1 */
+input[type="text"],
+input[type="search"],
+input[type="checkbox"],
+.search input {
+  background: #FFFFFF;
+  border: 0.625px solid #C1C1C1;
+  border-radius: var(--radius-input);
+}
+
+/* Focus ring — rgb(0, 99, 155) solid 2px */
+*:focus-visible {
+  outline: none;
+  box-shadow: var(--focus-ring);
+  border-radius: 2px;
+}
+
+/* Page rhythm — 4px grid, max-width inspired, flat */
+.page {
+  /* keep quartz grid but tighten gutters to 4px rhythm */
+}
+hr {
+  border-color: var(--border-color);
+}
+blockquote {
+  border-left-color: var(--dark);
+}
 code,
 pre,
 .katex {
   font-variant-ligatures: none;
+  border-color: var(--border-color);
+}
+pre {
+  border-radius: var(--radius-card);
+}
+img {
+  border-radius: var(--radius-card);
 }
