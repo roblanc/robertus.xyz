@@ -1,3 +1,41 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+@font-face {
+  font-family: "CPMono_v07";
+  src: url("/static/fonts/CPMono_v07-Plain.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CPMono_v07";
+  src: url("/static/fonts/CPMono_v07-Bold.otf") format("opentype");
+  font-weight: 600 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  line-height: 1.65;
+  letter-spacing: 0.01em;
+  font-variant-ligatures: none;
+  hyphens: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title {
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+code,
+pre,
+.katex {
+  font-variant-ligatures: none;
+}

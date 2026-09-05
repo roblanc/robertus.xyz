@@ -28,13 +28,16 @@ export interface Theme {
 
 export type ThemeKey = keyof Colors
 
-const DEFAULT_SANS_SERIF =
-  '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'
+const DEFAULT_SERIF = 'Georgia, "Times New Roman", Times, serif'
 const DEFAULT_MONO = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
+
+function googleFontFamily(name: string) {
+  return name.replace(/ /g, "+")
+}
 
 export function googleFontHref(theme: Theme) {
   const { code, header, body } = theme.typography
-  return `https://fonts.googleapis.com/css2?family=${code}&family=${header}:wght@400;700&family=${body}:ital,wght@0,400;0,600;1,400;1,600&display=swap`
+  return `https://fonts.googleapis.com/css2?family=${googleFontFamily(code)}:wght@400;500;700&family=${googleFontFamily(header)}:ital,wght@0,400;0,700;1,400;1,700&family=${googleFontFamily(body)}:ital,wght@0,400;0,600;1,400;1,600&display=swap`
 }
 
 export function joinStyles(theme: Theme, ...stylesheet: string[]) {
@@ -52,8 +55,8 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
 
-  --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
-  --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
+  --headerFont: "${theme.typography.header}", ${DEFAULT_MONO};
+  --bodyFont: "${theme.typography.body}", ${DEFAULT_MONO};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
 }
 
