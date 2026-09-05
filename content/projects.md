@@ -17,9 +17,6 @@ This site. A digital garden / blog powered by Quartz v4, sourced from my Obsidia
 ### [ClarStiri](https://github.com/roblanc/ClarStiri)
 News aggregation platform that detects bias and summarizes stories using AI (Gemini). Features daily briefings and public figure voice profiles.
 
-### [VindeAfacerea](https://github.com/roblanc/VindeAfacerea) 🔒
-Marketplace for buying and selling businesses in Romania. React, TypeScript, Tailwind, Supabase, secure payments.
-
 ### [CanAIFindMe](https://github.com/roblanc/CanAIFindMe) 🔒
 SEO/AEO/GEO scoring tool — see how indexable and cite-worthy your pages are to AI systems like ChatGPT, Perplexity, Gemini, and Claude.
 
@@ -73,9 +70,6 @@ Digital gallery for visual concepts and mental models. React + Vite.
 ### [TicuConstruct](https://github.com/roblanc/TicuConstruct)
 Website for a construction business.
 
-### [roku2](https://github.com/roblanc/roku2) 🔒
-Private project.
-
 ---
 
 ## AI & Automation
@@ -88,9 +82,6 @@ Skills collection for the Antigravity agent.
 
 ### [universal-agent-skills](https://github.com/roblanc/universal-agent-skills) 🔒
 Toolkit for AI agents — web scraping, Git automation, Remotion video creation, UI/UX design skills.
-
-### [fb-group-bot](https://github.com/roblanc/fb-group-bot) 🔒
-Bot for automating and managing Facebook group interactions.
 
 ### [n8nAutomationLab](https://github.com/roblanc/n8nAutomationLab)
 200+ plug-and-play n8n workflows combining automation with AI — vector databases, embeddings, LLMs.
