@@ -1,80 +1,72 @@
----
-published: true
-website_url: https://robertus.xyz/research/lost-einsteins/apralky
----
+
+
 
 not sure if this guy is a plant or not
 dense impactful writing
 ideas might be fishy
 his [X Profile](https://x.com/apralky)
 
-some stuff I collected from his writing:
 
-- nothing liberates you from midwit nuance-obsession like an extended period of deep involvement in a liquid financial market -- bearing witness to the leviathan of a miracle that is hyper-efficient info-dissipation through an amalgamation of messy & ill-informed directional bets
-- isn't it clear that Demis Hassabis is a far more competent "Machiavellian" than sama, Dario, and whoever else? everytime there's a clip of him, it's an instance of him making a fairly obviously zeitgeist-aligned & agreeable claim which results in endless commentary like below it would make plenty of sense given he likely has the highest raw intelligence within the lineup, certainly above sama, who has in fact done himself by far the most disservice by publicly saying things he could have simply chosen not to say, had he been more intelligent -- incredibly anti-Machiavellian behavior
-- nick land becoming the most prolific philisopher alive and then opting for the life of a turboanon poster in the middle of nowhere instead of cashing in the clout is basically the most Anglo thing ever
-- when I first started posting, I was mostly documenting my learning about the ways in which LLMs could be applied to medium-term event forecasting, he was one of the few people at the time broadly aligned with that interest. it's still part of his project above
-- Yudkowski lecturing about how "curbing AI" would actually be present-economy-neutral because the Fed can just ease into the demand shock is such a great case of theorybrain; conceptually correct yet if you told any market practitioner this they'd take you out back and kneecap you
-- hinking through why this might be-- i.e. why the average market participant would take you out back and kneecap you if you told them "we could make the AI curb demand neutral actually"-- it's probably mostly because they'd be more wary of the likelihood of the necessarily perfect execution or the possibility thereof, in large part because they're (1) more cynical about the ratio of the Fed's competence to the ambitiousness of the challenge and (2) generally more attuned to economic complexity (with the two being co-causal)
-- pretty funny that we finally made progress toward beating status signifiers out of the dominant classes with 2 centuries of critique, only for the dominated classes to voluntarily bring it back in full force-- lower middle class provincial strivers, sub-poverty third world tiktokers, the new rich in China & the Middle East, etc... Bourdieu always talks about this
-
-
+some stuff I collected:
 
 - Lookism/Looksmax (the forum ecosystem) is one of the clearest manifestations of the fact that social dynamics are broadly impossible to parse for smart autists with access to secondary sources only -- a large cluster of 2sd+ intelligence 20-30 year-olds who have spent an inordinate amount of time rigorously researching female to male attraction have convinced themselves that like 95% of it comes down to the male's physical attractiveness (blatantly untrue)
+
 
 insane how frequently the Chinese score completely free geopolitical wins by simply always chill guy maxxing... the western mind cannot comprehend this sort of arbitrage -- the EU would sanction his entire extended family and have it over with
 
 vocabulary
-
 - auraminned
 - turbo-normie
 - jestermaxxing (things Peter Thiel needs to learn more about this)
 
+
+
 insane how frequently the Chinese score completely free geopolitical wins by simply always chill guy maxxing... the western mind cannot comprehend this sort of arbitrage -- the EU would sanction his entire extended family and have it over with
+
 
 - "Normie" isn't inherently a pejorative term, it's inherently an affectionate term, much like "foid" seems to have become But when Normie isn't where Normie should be, and hasn't been for about 300 years now, discourse naturally turns to knocking Normie down a peg or two... to reinstate intended equilibrium
 
 > your epistemology is outsourced to prediction markets
-your policy is arbitrated by bond yields
-your "human nature" is downstream of the interest rate
-your shelter costs have overridden the reproductive instinct
-your labour market decides how much immigration you get
-50 bps of GDP can make magic real
-your fiscal path is the only bipartisan worry
-stock market stochastics engineer your class dynamics
-your only wars are trade wars in 2025 you're either learning macro... or you're thinking without a license
+> your policy is arbitrated by bond yields
+> your "human nature" is downstream of the interest rate
+> your shelter costs have overridden the reproductive instinct
+> your labour market decides how much immigration you get
+> 50 bps of GDP can make magic real
+> your fiscal path is the only bipartisan worry
+> stock market stochastics engineer your class dynamics
+> your only wars are trade wars in 2025 you're either learning macro... or you're thinking without a license
+
 
 ## On Social Theory & Thinkers
 
-- **On Curtis Yarvin:** eternal testament to the usefulness of interpretive social sciences that in a world where a gazillion IQ135+ PhDs are churning out thousands of pages of Theory a day, the guy who ended up modelling contemporary power structures by far the best is a compsci dropout going at it from first principles in his san francisco bedroom while holding down an unrelated day job.
+-   **On Curtis Yarvin:** eternal testament to the usefulness of interpretive social sciences that in a world where a gazillion IQ135+ PhDs are churning out thousands of pages of Theory a day, the guy who ended up modelling contemporary power structures by far the best is a compsci dropout going at it from first principles in his san francisco bedroom while holding down an unrelated day job.
 
 ---
 
 ## On Strategy & Machiavellianism
 
-- **Trve Machiavellianism:** naive machiavellian: lie in the early game, get found out, never get to the late game trve machiavellian: honest in the early game, so so honest... everyone thinks.. oh yeah, this is the honest guy... he'd never hurt a fly.. but in the late game? once harvest ripens? he lies...
-- **Machiavellianism in the Internet Age:** pre-internet trve machiavellians don't understand how much more efficient internet ecosystems are, i.e. how much harder you need to feign honesty in the early game post-internet than pre-internet, so they start slimemaxxing too early and drop like flies (common in millennials).
-- **The Efficiency of Online Scrutiny:** this is obviously because having many thousands, millions of people scrutinize you in an IQ selected smooth information cluster is way way way different than your constant rotation of 10 midwitted friends & colleagues.
-- **The Quandary of Modern Honesty:** this is true to such an extent that in many ways it's impossible to lie to an online audience, it is a hyperefficient info market at a certain size, so you must indeed become honest early on, and somehow later on decide to snap back to evilmaxxing as your honest self, a quandry.
-- **On Subordinate Conflict (quoting Machiavelli):** machiavelli said when there's conflict between your subordinates, always pick a side! A. you don't pick a side, the winner hates you and has clout, the loser also hates you, your status erodes B. you pick a side, you tip the scales, winner is now clouted and indebted to you; sounds true and runs somewhat contrary to common wisdom of finding balance and so on.
+-   **Trve Machiavellianism:** naive machiavellian: lie in the early game, get found out, never get to the late game trve machiavellian: honest in the early game, so so honest... everyone thinks.. oh yeah, this is the honest guy... he'd never hurt a fly.. but in the late game? once harvest ripens? he lies...
+-   **Machiavellianism in the Internet Age:** pre-internet trve machiavellians don't understand how much more efficient internet ecosystems are, i.e. how much harder you need to feign honesty in the early game post-internet than pre-internet, so they start slimemaxxing too early and drop like flies (common in millennials).
+-   **The Efficiency of Online Scrutiny:** this is obviously because having many thousands, millions of people scrutinize you in an IQ selected smooth information cluster is way way way different than your constant rotation of 10 midwitted friends & colleagues.
+-   **The Quandary of Modern Honesty:** this is true to such an extent that in many ways it's impossible to lie to an online audience, it is a hyperefficient info market at a certain size, so you must indeed become honest early on, and somehow later on decide to snap back to evilmaxxing as your honest self, a quandry.
+-   **On Subordinate Conflict (quoting Machiavelli):** machiavelli said when there's conflict between your subordinates, always pick a side! A. you don't pick a side, the winner hates you and has clout, the loser also hates you, your status erodes B. you pick a side, you tip the scales, winner is now clouted and indebted to you; sounds true and runs somewhat contrary to common wisdom of finding balance and so on.
 
 ---
 
 ## On Gaining Followers (Ironic Post)
 
 I got 20k followers in 2 months! here's what 20k followers in 2 months has gotten me:
-
-- > an avenue to express myself
-- > invaluable connections in globally influential communities
-- > ~10-20 real life friends
-- > a fresh sense of belonging & community
-- > a powerful search engine which can tap into unwritten communal info banks
-- > eerily loud sustained tone in my living room daily at 3:00 am lasting ~10 minutes
-- > identical black van parked in the corner of my street every night from 1-5 am
-- > a weekly unanswered anonymous phone call inbound from Tel Aviv
-- > a picture of my elderly grandmother mailed to my inbox with the eyes carved out
-- > half a dozen pseudonymous emails all with a certain defence contractor's domain subjected "Cordial Advice Regarding Artistic Direction"
-- > a 5-fold increase in screen time
+> - an avenue to express myself
+> - invaluable connections in globally influential communities
+> - ~10-20 real life friends
+> - a fresh sense of belonging & community
+> - a powerful search engine which can tap into unwritten communal info banks
+> - eerily loud sustained tone in my living room daily at 3:00 am lasting ~10 minutes
+> - identical black van parked in the corner of my street every night from 1-5 am
+> - a weekly unanswered anonymous phone call inbound from Tel Aviv
+> - a picture of my elderly grandmother mailed to my inbox with the eyes carved out
+> - half a dozen pseudonymous emails all with a certain defence contractor's domain subjected "Cordial Advice Regarding Artistic Direction"
+> - a 5-fold increase in screen time
 
 ---
 
@@ -82,7 +74,7 @@ I got 20k followers in 2 months! here's what 20k followers in 2 months has gotte
 
 #### What Are We Trying to Do?
 
-Before doing anything, it’s reasonable to ask why... What’s my utility function?... **the variable I’m currently trying to maximize is personal ideological influence**, that’s the utility function. You can call it *power-maxxing.*
+Before doing anything, it’s reasonable to ask why... What’s my utility function?... **the variable I’m currently trying to maximize is personal ideological influence**, that’s the utility function. You can call it _power-maxxing._
 
 #### Isn’t influence too much of a moonshot?
 
@@ -91,9 +83,8 @@ Not at all. You’re reading this, which means that you’ve already self-select
 #### The Protocol
 
 The intellectual pathway of power-maxxing is a two-stage process:
-
-1. **Gain an Audience:** The natural first stage is to actually gain an audience of people who will listen to us and are worth talking to... Our first stage goal is to amass an audience consisting of a moderate swathe of such people (you’ll reach the rest through network diffusion).
-2. **Say the Right Things:** We now have an audience of people who are themselves influential and listen to us, now we need to navigate how to *say the right things.* How and in which direction do we plan to influence our audience?
+1.  **Gain an Audience:** The natural first stage is to actually gain an audience of people who will listen to us and are worth talking to... Our first stage goal is to amass an audience consisting of a moderate swathe of such people (you’ll reach the rest through network diffusion).
+2.  **Say the Right Things:** We now have an audience of people who are themselves influential and listen to us, now we need to navigate how to _say the right things._ How and in which direction do we plan to influence our audience?
 
 #### Appendix: On Long-Form vs. Short-Form
 
@@ -103,22 +94,22 @@ In short-form content, I both like and find it necessary to be provocative... Wh
 
 ## On Techno-Determinism (Thread)
 
-- **Vindication:** for some time, there was split discourse over whether it's reductionist to characterize all complex societal phenomena as modelable downstream of media technology... this is no longer a matter of contention.
-- **The Driver:** international & domestic politics, warfare, the global economy, financial markets, friendships, mating, the academia ... all have rapidly changed form all downstream of a shared media-ecological change: > the proliferation of the internet.
-- **Conclusion:** > yes, human history is downstream of media technology > yes, a sufficiently advanced understanding of media technology slashes most entropy in human affair forecasting > yes, 140 characters is a big deal.
-- **The Three Factors:** lets collapse the media shift into a smaller set of explanatory factors... 1. the attention economy 2. full transparency 3. neo-orality.
-- **1. The Attention Economy:** information has gone from supply constrained to demand constrained... competition for attention is fiercer than ever this means that your info can't just be high signal it also needs to be provocative.
-- **2. Full Transparency:** the internet ecosystem demands full personal openness... new media rewards earnesty, making machiavellian builds broadly unviable for the first time in history since village life.
-- **3. Neo-Orality and Post-Literacy:** the internet is more oral than literate... neo-orality should also directionally tempt us toward the latter: the Dionysian Descent (compounded by AGI).
+-   **Vindication:** for some time, there was split discourse over whether it's reductionist to characterize all complex societal phenomena as modelable downstream of media technology... this is no longer a matter of contention.
+-   **The Driver:** international & domestic politics, warfare, the global economy, financial markets, friendships, mating, the academia ... all have rapidly changed form all downstream of a shared media-ecological change: > the proliferation of the internet.
+-   **Conclusion:** > yes, human history is downstream of media technology > yes, a sufficiently advanced understanding of media technology slashes most entropy in human affair forecasting > yes, 140 characters is a big deal.
+-   **The Three Factors:** lets collapse the media shift into a smaller set of explanatory factors... 1. the attention economy 2. full transparency 3. neo-orality.
+-   **1. The Attention Economy:** information has gone from supply constrained to demand constrained... competition for attention is fiercer than ever this means that your info can't just be high signal it also needs to be provocative.
+-   **2. Full Transparency:** the internet ecosystem demands full personal openness... new media rewards earnesty, making machiavellian builds broadly unviable for the first time in history since village life.
+-   **3. Neo-Orality and Post-Literacy:** the internet is more oral than literate... neo-orality should also directionally tempt us toward the latter: the Dionysian Descent (compounded by AGI).
 
 ---
 
 ## Miscellaneous Observations
 
-- **On Personality Types:** 5 days ago I made a post about how engineering majors/shape rotators are low taste and have no cultural awareness: 2k likes 0 pushback... 2 days ago I made a post about how humanities majors/wordcels are shit at statistics (true): civil war, thousands dead... really makes you wonder what types of personalities they respectively select for.
-- **On Signaling:** 10 GPT prompts just to broadly signal "h-hey.. I can k-kinda do s-statistics... too.?"
-- **On Sleep Deprivation:** I haven't slept longer than 5 hours in a week and it seems objectively true that sleep deprivation is not a condition that's outright negative... but rather a perspective-enhancing altered state of consciousness with health implications, like DRUGS.
-- **On Public Image (Peter Thiel & Kissinger):** the American mind is eternally cheerful... everyone hated Henry Kissinger until he learned to make self-deprecating jokes... if Peter Thiel wants to improve his public image... they will advise him to start jestermaxxing... a single viral wave could turn him into a public sweetheart.
-- **On Bryan Johnson:** a kind commenter pointed out that Bryan Johnson executed this playbook perfectly -- a "vampmaxxer" at the brink of persona-death revived by a tasteful dose of "jestermaxxing".
+-   **On Personality Types:** 5 days ago I made a post about how engineering majors/shape rotators are low taste and have no cultural awareness: 2k likes 0 pushback... 2 days ago I made a post about how humanities majors/wordcels are shit at statistics (true): civil war, thousands dead... really makes you wonder what types of personalities they respectively select for.
+-   **On Signaling:** 10 GPT prompts just to broadly signal "h-hey.. I can k-kinda do s-statistics... too.?"
+-   **On Sleep Deprivation:** I haven't slept longer than 5 hours in a week and it seems objectively true that sleep deprivation is not a condition that's outright negative... but rather a perspective-enhancing altered state of consciousness with health implications, like DRUGS.
+-   **On Public Image (Peter Thiel & Kissinger):** the American mind is eternally cheerful... everyone hated Henry Kissinger until he learned to make self-deprecating jokes... if Peter Thiel wants to improve his public image... they will advise him to start jestermaxxing... a single viral wave could turn him into a public sweetheart.
+-   **On Bryan Johnson:** a kind commenter pointed out that Bryan Johnson executed this playbook perfectly -- a "vampmaxxer" at the brink of persona-death revived by a tasteful dose of "jestermaxxing".
 
 ---
