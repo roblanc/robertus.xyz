@@ -6,6 +6,7 @@ import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
 import styles from "../../styles/custom.scss"
+import azlenVariantStyles from "../../styles/variant-azlen.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
@@ -245,6 +246,8 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         googleFontsStyleSheet,
         ...componentResources.css,
         styles,
+        // /test theme preview (see quartz.config.ts); empty for the normal build
+        process.env.QUARTZ_VARIANT === "azlen" ? azlenVariantStyles : "",
       )
       const [prescript, postscript] = await Promise.all([
         joinScripts(componentResources.beforeDOMLoaded),

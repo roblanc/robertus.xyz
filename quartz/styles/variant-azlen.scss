@@ -1,0 +1,466 @@
+@use "./variables.scss" as *;
+
+/*
+ * robertus.xyz × azlen.me — theme preview served at /test
+ *
+ * Only included when building with QUARTZ_VARIANT=azlen (see quartz.config.ts).
+ * Loaded after custom.scss, so everything here overrides the live theme.
+ *
+ * The mix:
+ *   kept from robertus.xyz  → CP Mono for titles, headings, meta and UI; blue accent; 🌵
+ *   taken from azlen.me     → warm paper background, serif reading text, one narrow
+ *                             column, tiny fixed side rail, highlighted "pill" links,
+ *                             quiet hanging details at half opacity
+ */
+
+@font-face {
+  font-family: "ET Book";
+  src: url("/static/fonts/et-book/et-book-roman-line-figures.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ET Book";
+  src: url("/static/fonts/et-book/et-book-display-italic-old-style-figures.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ET Book";
+  src: url("/static/fonts/et-book/et-book-bold-line-figures.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root:root {
+  --bodyFont: "ET Book", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --headerFont: "CPMono_v07", ui-monospace, monospace;
+  --codeFont: "CPMono_v07", ui-monospace, monospace;
+  --column: 38rem;
+  --rail: 4rem;
+}
+
+html {
+  background: var(--light);
+}
+
+body {
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+  letter-spacing: 0;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--textHighlight);
+  color: var(--dark);
+}
+
+/* ——— Layout: one centered column, nothing on the right ——— */
+
+.page > #quartz-body {
+  display: block;
+  padding: 0 1.5rem;
+}
+
+.page > #quartz-body .sidebar.right {
+  display: none;
+}
+
+.page > #quartz-body .center {
+  max-width: var(--column);
+  min-width: 0;
+  margin: 0 auto;
+  padding-bottom: 6rem;
+}
+
+.page > #quartz-body .page-header {
+  margin: 7.5rem 0 0 0;
+}
+
+/* ——— The rail: 🌵 / search / theme, fixed beside the column ——— */
+
+.page > #quartz-body .sidebar.left {
+  position: fixed;
+  top: 7.25rem;
+  left: max(1rem, calc(50% - var(--column) / 2 - var(--rail) - 2.5rem));
+  width: var(--rail);
+  height: auto;
+  padding: 0;
+  gap: 1.1rem;
+  flex-direction: column;
+  align-items: center;
+  z-index: 10;
+}
+
+.sidebar.left .page-title {
+  font-size: 2.1rem;
+  line-height: 1;
+  margin: 0;
+
+  & a {
+    display: inline-block;
+    background: none !important;
+    padding: 0;
+    transition: transform 0.25s ease-out;
+  }
+
+  & a:hover {
+    transform: rotate(-12deg) scale(1.08);
+  }
+}
+
+.sidebar.left .search {
+  min-width: 0;
+  max-width: none;
+  flex-grow: 0;
+
+  & > .search-button {
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+
+    & > p {
+      display: none;
+    }
+
+    & svg {
+      margin: 0;
+      transition: filter 0.3s;
+
+      .search-path {
+        stroke: var(--dark);
+      }
+    }
+
+    &:hover svg {
+      filter: drop-shadow(0 0 5px var(--secondary));
+    }
+  }
+}
+
+.sidebar.left .darkmode {
+  width: 28px;
+  height: 28px;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 50%;
+
+  & svg {
+    left: 4px;
+    fill: var(--dark);
+    transition: filter 0.3s;
+  }
+
+  &:hover {
+    background: transparent;
+  }
+
+  &:hover svg {
+    filter: drop-shadow(0 0 5px var(--secondary));
+  }
+}
+
+/* ——— Type ——— */
+
+.page article,
+.page .page-header,
+.page .page-footer {
+  font-family: var(--bodyFont);
+}
+
+.page article p,
+.page article li,
+.page article dd {
+  font-size: 1.25rem;
+  line-height: 1.55;
+  hyphens: none;
+}
+
+.page article p > strong,
+.page article li > strong {
+  font-family: var(--headerFont);
+  font-size: 0.88em;
+  font-weight: 700;
+  color: var(--dark);
+}
+
+.page article em {
+  font-style: italic;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--headerFont);
+  color: var(--dark);
+  text-wrap: balance;
+}
+
+h1.article-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin: 0.75rem 0 0.5rem;
+}
+
+.page article h2 {
+  font-size: 1.4rem;
+  line-height: 1.2;
+  margin: 3rem 0 0.75rem;
+  letter-spacing: -0.01em;
+}
+
+.page article h3,
+.page article h4 {
+  font-size: 1.05rem;
+  line-height: 1.3;
+  margin: 2.5rem 0 0.5rem;
+  letter-spacing: 0.01em;
+}
+
+.page article h5,
+.page article h6 {
+  font-size: 0.9rem;
+  margin: 2rem 0 0.5rem;
+  opacity: 0.7;
+}
+
+/* breadcrumbs, dates, reading time — quiet mono, like azlen's dates */
+.breadcrumb-container,
+.content-meta {
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  opacity: 0.75;
+}
+
+.breadcrumb-container {
+  margin: 0;
+  padding: 0;
+
+  & a.internal,
+  & a {
+    background: none !important;
+    padding: 0;
+    color: inherit;
+    font-style: normal;
+    font-family: inherit;
+  }
+}
+
+.content-meta {
+  margin-top: 0;
+}
+
+/* ——— Links: azlen-style highlighted pills, in the robertus blue ——— */
+
+.page article a.internal:not(.tag-link),
+.page article a.external,
+.page .page-footer a.internal {
+  font-family: var(--bodyFont);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--secondary);
+  background: var(--highlight);
+  padding: 0.08em 0.32em 0.02em;
+  border-radius: 5px;
+  text-decoration: none;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  transition:
+    background 0.12s ease-out,
+    color 0.12s ease-out;
+}
+
+.page article a.internal:not(.tag-link):hover,
+.page article a.external:hover,
+.page .page-footer a.internal:hover {
+  background: var(--secondary);
+  color: var(--light) !important;
+}
+
+/* external links get a little "~" instead of the arrow icon */
+.page article a.external .external-icon {
+  display: none;
+}
+
+.page article a.external::after {
+  content: "~";
+  font-style: normal;
+  opacity: 0.6;
+  margin-left: 0.05em;
+}
+
+a.internal.tag-link {
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  font-style: normal;
+  background: transparent;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  color: var(--darkgray);
+}
+
+/* ——— Blocks ——— */
+
+.page article ul,
+.page article ol {
+  padding-left: 1.4rem;
+}
+
+.page article li::marker {
+  color: var(--gray);
+}
+
+.page article blockquote:not(.callout) {
+  margin: 1.75rem 0;
+  padding-left: 1.5rem;
+  border-left: 3px solid var(--dark);
+
+  & p {
+    opacity: 0.6;
+  }
+}
+
+.page article hr,
+.page .center > hr {
+  border: none;
+  border-top: 1px solid var(--gray);
+  opacity: 0.5;
+  margin: 4rem 0 2.5rem;
+}
+
+.page article code {
+  font-family: var(--codeFont);
+  font-size: 0.85em;
+  background: var(--lightgray);
+  border-radius: 4px;
+  padding: 0.05em 0.3em;
+}
+
+.page article pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.page article pre {
+  background: var(--lightgray);
+  border: none;
+  border-radius: 10px;
+}
+
+.page article img {
+  border-radius: 10px;
+}
+
+.page article table {
+  font-size: 1.05rem;
+}
+
+/* ——— Backlinks under the article ——— */
+
+.page .page-footer .backlinks {
+  & > h3 {
+    font-family: var(--codeFont);
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.5;
+    margin: 0 0 0.75rem;
+  }
+
+  & > ul {
+    padding-left: 1.1rem;
+    margin: 0;
+  }
+
+  & > ul > li {
+    font-size: 1.1rem;
+    margin: 0.3rem 0;
+  }
+
+  & > ul > li::marker {
+    color: var(--gray);
+  }
+}
+
+/* ——— Little "you are on the preview" tag ——— */
+
+body::after {
+  content: "/test · theme preview";
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  color: var(--darkgray);
+  background: var(--lightgray);
+  border-radius: 999px;
+  padding: 0.3rem 0.75rem;
+  opacity: 0.75;
+  pointer-events: none;
+  z-index: 5;
+}
+
+/* ——— Mobile: rail turns into a top bar fading into the page (as on azlen.me) ——— */
+
+@media all and ($mobile) {
+  .page > #quartz-body {
+    padding: 0 1.25rem;
+  }
+
+  .page > #quartz-body .sidebar.left {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem 2rem;
+    background: linear-gradient(to bottom, var(--light) 55%, transparent 100%);
+  }
+
+  .sidebar.left .page-title {
+    flex: 1;
+    font-size: 1.75rem;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 5rem;
+  }
+
+  h1.article-title {
+    font-size: 2rem;
+  }
+
+  .page article p,
+  .page article li,
+  .page article dd {
+    font-size: 1.18rem;
+  }
+
+  body::after {
+    display: none;
+  }
+}

@@ -1,3 +1,11 @@
 [build]
-  command = "npx quartz build"
+  # 1) live site → public/   2) theme preview (QUARTZ_VARIANT=azlen) → public/test/
+  # Order matters: each build wipes its own output dir, so the preview runs second.
+  command = "npx quartz build && QUARTZ_VARIANT=azlen npx quartz build -o public/test"
   publish = "public"
+
+# keep the theme preview out of search engines
+[[headers]]
+  for = "/test/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
