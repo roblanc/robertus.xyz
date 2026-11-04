@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { PreviewLinks } from "./quartz/plugins/transformers/previewLinks"
 
 // Experimental theme preview. `QUARTZ_VARIANT=azlen npx quartz build -o public/test`
 // builds the whole site a second time into /test with the paper/serif theme.
@@ -97,6 +98,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      ...(isAzlenVariant ? [PreviewLinks()] : []),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
