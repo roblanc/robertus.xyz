@@ -1,16 +1,8 @@
 @use "./variables.scss" as *;
 
 /*
- * robertus.xyz × azlen.me — theme preview served at /test
- *
- * Only included when building with QUARTZ_VARIANT=azlen (see quartz.config.ts).
- * Loaded after custom.scss, so everything here overrides the live theme.
- *
- * The mix:
- *   kept from robertus.xyz  → CP Mono for titles, headings, meta and UI; blue accent; 🌵
- *   taken from azlen.me     → warm paper background, serif reading text, one narrow
- *                             column, tiny fixed side rail, highlighted "pill" links,
- *                             quiet hanging details at half opacity
+ * robertus.xyz theme: paper reading column, mono headings and a small navigation rail.
+ * Styles load after custom.scss and adapt to the selected palette.
  */
 
 @font-face {
@@ -403,25 +395,6 @@ a.internal.tag-link {
   }
 }
 
-/* ——— Little "you are on the preview" tag ——— */
-
-body::after {
-  content: "/test · theme preview";
-  position: fixed;
-  right: 1rem;
-  bottom: 1rem;
-  font-family: var(--codeFont);
-  font-size: 0.7rem;
-  letter-spacing: 0.02em;
-  color: var(--darkgray);
-  background: var(--lightgray);
-  border-radius: 999px;
-  padding: 0.3rem 0.75rem;
-  opacity: 0.75;
-  pointer-events: none;
-  z-index: 5;
-}
-
 /* ——— Mobile: rail turns into a top bar fading into the page (as on azlen.me) ——— */
 
 @media all and ($mobile) {
@@ -460,9 +433,6 @@ body::after {
     font-size: 1.18rem;
   }
 
-  body::after {
-    display: none;
-  }
 }
 
 /* Additional palettes use the reference site's theme colors. */
@@ -530,3 +500,90 @@ body::after {
 .preview-theme svg { width: 22px; height: 22px; }
 .preview-theme:hover { color: var(--secondary); }
 .preview-theme:focus-visible { outline: 2px solid var(--secondary); outline-offset: 3px; }
+
+/* Linked notes open in a sliding trail; the page beneath keeps its place. */
+#note-stack.has-notes {
+  position: fixed;
+  z-index: 100;
+  inset: 0 0 0 auto;
+  display: flex;
+  align-items: stretch;
+  max-width: 100vw;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+}
+
+.note-pane {
+  flex: 0 0 min(39rem, calc(100vw - 3rem));
+  min-width: 0;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  background: var(--light);
+  border-left: 1px solid var(--lightgray);
+  box-shadow: -10px 0 30px #00000018;
+  animation: note-enter 260ms ease-out both;
+}
+
+.note-pane-heading {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 3.75rem;
+  padding: 0.75rem 1.25rem;
+  border-bottom: 1px solid var(--lightgray);
+  font: 0.75rem var(--codeFont);
+  color: var(--darkgray);
+}
+
+.note-pane-title { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.note-pane-close, .note-pane-restore {
+  color: var(--dark);
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+.note-pane-close { font: 1.7rem/1 sans-serif; padding: 0.2rem 0.45rem; }
+.note-pane-close:focus-visible, .note-pane-restore:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+.note-pane-content {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 2rem clamp(1.5rem, 4vw, 3.5rem) 5rem;
+}
+.note-pane-content > h1 { font-size: 2rem; line-height: 1.15; margin: 0 0 2rem; }
+.note-pane-content img { max-width: 100%; height: auto; }
+.note-pane-content .backlinks { margin-top: 3rem; }
+.note-pane-content .backlinks h3 { font: 0.75rem var(--codeFont); text-transform: uppercase; }
+.note-pane.is-collapsed { flex-basis: 3rem; }
+.note-pane.is-collapsed .note-pane-heading {
+  height: 100%;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 1rem 0.3rem;
+  border: 0;
+}
+.note-pane.is-collapsed .note-pane-close { order: -1; }
+.note-pane-restore {
+  writing-mode: vertical-rl;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-height: 70vh;
+  padding: 0.5rem;
+  font: 0.8rem var(--codeFont);
+}
+.note-pane-error { padding: 2rem; font-family: var(--bodyFont); }
+@keyframes note-enter { from { transform: translateX(2rem); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .note-pane { animation: none; } }
+@media all and ($mobile) {
+  .note-pane { flex-basis: calc(100vw - 2rem); }
+  .note-pane.is-collapsed { flex-basis: 2rem; }
+  .note-pane-content { padding: 1.5rem 1.25rem 4rem; }
+  .note-pane-content > h1 { font-size: 1.6rem; }
+}

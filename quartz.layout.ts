@@ -1,21 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import PreviewTheme from "./quartz/components/PreviewTheme"
+import NoteStack from "./quartz/components/NoteStack"
 
-// See quartz.config.ts — `QUARTZ_VARIANT=azlen` builds the /test theme preview.
-const isAzlenVariant = process.env.QUARTZ_VARIANT === "azlen"
+// Shared single-column theme.
+const isAzlenVariant = true
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: isAzlenVariant ? [Component.Backlinks()] : [],
+  afterBody: isAzlenVariant ? [Component.Backlinks(), NoteStack()] : [],
   footer: Component.Footer({
     links: {},
   }) as any,
 }
 
-// /test variant: a single reading column with a tiny fixed rail (logo, search, theme),
+// A single reading column with a tiny fixed rail (logo, search, theme),
 // in the spirit of azlen.me. No explorer, graph or TOC chrome.
 const azlenContentPageLayout: PageLayout = {
   beforeBody: [

@@ -2,7 +2,7 @@ import type { Root, PhrasingContent } from "mdast"
 import { visit } from "unist-util-visit"
 import { QuartzTransformerPlugin } from "../types"
 
-// Editorial links for the experimental theme only. Original notes remain untouched.
+// Editorial links connect published notes without changing their source files.
 const links: Record<string, Array<{ phrase: string; target: string }>> = {
   index: [
     { phrase: "working notes", target: "Become-a-specialized-generalist" },

@@ -2,9 +2,7 @@ const previewThemes = ["paper", "dark", "pink", "green", "blueberry", "sage"]
 const savedPreviewTheme = localStorage.getItem("preview-theme")
 const initialPreviewTheme = savedPreviewTheme && previewThemes.includes(savedPreviewTheme)
   ? savedPreviewTheme
-  : localStorage.getItem("theme") === "dark" || (!localStorage.getItem("theme") && window.matchMedia("(prefers-color-scheme: dark)").matches)
-    ? "dark"
-    : "paper"
+  : "paper"
 
 function applyPreviewTheme(theme: string) {
   document.documentElement.setAttribute("data-preview-theme", theme)

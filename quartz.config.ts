@@ -2,10 +2,8 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { PreviewLinks } from "./quartz/plugins/transformers/previewLinks"
 
-// Experimental theme preview. `QUARTZ_VARIANT=azlen npx quartz build -o public/test`
-// builds the whole site a second time into /test with the paper/serif theme.
-// The regular build (no env var) is untouched.
-const isAzlenVariant = process.env.QUARTZ_VARIANT === "azlen"
+// Use the paper theme across the site.
+const isAzlenVariant = true
 
 /**
  * Quartz 4.0 Configuration
@@ -22,7 +20,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: isAzlenVariant ? "robertus.xyz/test" : "robertus.xyz",
+    baseUrl: "robertus.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,

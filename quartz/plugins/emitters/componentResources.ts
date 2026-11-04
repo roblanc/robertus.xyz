@@ -246,8 +246,8 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         googleFontsStyleSheet,
         ...componentResources.css,
         styles,
-        // /test theme preview (see quartz.config.ts); empty for the normal build
-        process.env.QUARTZ_VARIANT === "azlen" ? azlenVariantStyles : "",
+        // Paper theme and note panel styles
+        azlenVariantStyles,
       )
       const [prescript, postscript] = await Promise.all([
         joinScripts(componentResources.beforeDOMLoaded),
