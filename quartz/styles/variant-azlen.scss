@@ -464,3 +464,96 @@ body::after {
     display: none;
   }
 }
+
+/* Additional palettes use the reference site's theme colors. */
+:root:root[data-preview-theme="pink"] {
+  --light: #e0b1cb;
+  --lightgray: #cba0bb;
+  --gray: #805f83;
+  --darkgray: #302345;
+  --dark: #231942;
+  --secondary: #40336d;
+  --tertiary: #5e548e;
+  --highlight: #9f86c066;
+  --textHighlight: #ffffff88;
+}
+
+:root:root[data-preview-theme="green"] {
+  --light: #9bbc0f;
+  --lightgray: #8bac0f;
+  --gray: #456b24;
+  --darkgray: #163e17;
+  --dark: #0f380f;
+  --secondary: #174717;
+  --tertiary: #306230;
+  --highlight: #6e920f77;
+  --textHighlight: #d5eb77;
+}
+
+:root:root[data-preview-theme="blueberry"] {
+  --light: #a5a7fc;
+  --lightgray: #babcff;
+  --gray: #5256a7;
+  --darkgray: #20203e;
+  --dark: #111129;
+  --secondary: #242881;
+  --tertiary: #444ae3;
+  --highlight: #c2c4ffcc;
+  --textHighlight: #e5e6ff;
+}
+
+:root:root[data-preview-theme="sage"] {
+  --light: #dce5d7;
+  --lightgray: #c8d6c4;
+  --gray: #728871;
+  --darkgray: #2e4030;
+  --dark: #1b3021;
+  --secondary: #285c4a;
+  --tertiary: #5f8169;
+  --highlight: #a8c6ad88;
+  --textHighlight: #f1e1a5;
+}
+
+.preview-theme {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  width: 6.5rem;
+  font-family: var(--codeFont);
+  color: var(--darkgray);
+}
+
+.preview-theme-label {
+  font-size: 0.65rem;
+  text-align: center;
+}
+
+.preview-theme select {
+  width: 100%;
+  padding: 0.35rem 0.2rem;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  color: var(--dark);
+  background: var(--light);
+  font: 0.65rem var(--codeFont);
+  cursor: pointer;
+}
+
+.preview-theme select:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+@media all and ($mobile) {
+  .preview-theme {
+    width: 8rem;
+  }
+
+  .preview-theme-label {
+    display: none;
+  }
+
+  .preview-theme select {
+    font-size: 0.75rem;
+  }
+}

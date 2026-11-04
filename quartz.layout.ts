@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import PreviewTheme from "./quartz/components/PreviewTheme"
 
 // See quartz.config.ts — `QUARTZ_VARIANT=azlen` builds the /test theme preview.
 const isAzlenVariant = process.env.QUARTZ_VARIANT === "azlen"
@@ -23,7 +24,7 @@ const azlenContentPageLayout: PageLayout = {
     Component.ContentMeta({ showDate: false }),
     Component.TagList(),
   ],
-  left: [Component.PageTitle(), Component.Search(), Component.Darkmode()],
+  left: [Component.PageTitle(), Component.Search(), PreviewTheme()],
   right: [],
 }
 
@@ -33,7 +34,7 @@ const azlenListPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta({ showDate: false }),
   ],
-  left: [Component.PageTitle(), Component.Search(), Component.Darkmode()],
+  left: [Component.PageTitle(), Component.Search(), PreviewTheme()],
   right: [],
 }
 
