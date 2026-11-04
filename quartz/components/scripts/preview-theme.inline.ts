@@ -16,13 +16,23 @@ function applyPreviewTheme(theme: string) {
 applyPreviewTheme(initialPreviewTheme)
 
 document.addEventListener("nav", () => {
-  const picker = document.querySelector<HTMLSelectElement>("#preview-theme")
-  if (!picker) return
-  picker.value = document.documentElement.getAttribute("data-preview-theme") || "paper"
-  const onChange = () => {
-    localStorage.setItem("preview-theme", picker.value)
-    applyPreviewTheme(picker.value)
+  const button = document.querySelector<HTMLButtonElement>("#preview-theme")
+  if (!button) return
+  const names: Record<string, string> = { paper: "Paper", dark: "Dark", pink: "Pinkish Calm", green: "Gameboy Green", blueberry: "Business Blueberry", sage: "Sage" }
+  const updateLabel = () => {
+    const theme = document.documentElement.getAttribute("data-preview-theme") || "paper"
+    const label = `Color theme: ${names[theme]}. Click to change theme.`
+    button.setAttribute("aria-label", label)
+    button.title = label
   }
-  picker.addEventListener("change", onChange)
-  window.addCleanup(() => picker.removeEventListener("change", onChange))
+  updateLabel()
+  const onClick = () => {
+    const current = document.documentElement.getAttribute("data-preview-theme") || "paper"
+    const next = previewThemes[(previewThemes.indexOf(current) + 1) % previewThemes.length]
+    localStorage.setItem("preview-theme", next)
+    applyPreviewTheme(next)
+    updateLabel()
+  }
+  button.addEventListener("click", onClick)
+  window.addCleanup(() => button.removeEventListener("click", onClick))
 })
