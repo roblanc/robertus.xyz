@@ -25,7 +25,7 @@ const azlenContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [Component.PageTitle(), Component.Search(), PreviewTheme()],
-  right: [Component.Graph({ localGraph: { showTags: false, focusOnHover: true }, globalGraph: { showTags: false, enableRadial: false } })],
+  right: [],
 }
 
 const azlenListPageLayout: PageLayout = {

@@ -70,34 +70,7 @@ body {
 }
 
 .page > #quartz-body .sidebar.right {
-  display: flex;
-  position: fixed;
-  top: 7.5rem;
-  left: calc(50% + var(--column) / 2 + 2.5rem);
-  width: min(14rem, calc(50vw - var(--column) / 2 - 3.5rem));
-  height: auto;
-  padding: 0;
-}
-
-.page .graph { width: 100%; }
-.page .graph > h3 {
-  font: 0.75rem var(--codeFont);
-  color: var(--darkgray);
-  letter-spacing: 0.04em;
-}
-.page .graph > .graph-outer {
-  height: 12rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 8px;
-  background: transparent;
-}
-
-@media all and (max-width: 1199px) {
-  .page > #quartz-body .sidebar.right {
-    position: static;
-    width: min(100%, var(--column));
-    margin: -4rem auto 4rem;
-  }
+  display: none;
 }
 
 .page > #quartz-body .center {
