@@ -171,3 +171,32 @@ Have more romantic partners.
 > If you write for 10 years, you'll have built up such a mass of work and experience that your momentum carries you forward without much need for speed at all.
 
 - but what if you can make speed your default?
+
+---
+
+## Go fast to stay authentic (Jake Knapp)
+
+Archived copy of Jake Knapp's Medium post, kept here in full in case the original disappears. Speed as a guard against second-guessing: the faster you ship, the less time you have to water the idea down.
+
+Original: [jakek.medium.com/go-fast-to-stay-authentic-57f2983ccecc](https://jakek.medium.com/go-fast-to-stay-authentic-57f2983ccecc) · Backup: [Wayback Machine snapshot (23 Jan 2022)](https://web.archive.org/web/20220123094543/https://jakek.medium.com/go-fast-to-stay-authentic-57f2983ccecc)
+
+> [!quote] Go fast to stay authentic, by Jake Knapp (Jan 19, 2018)
+> ![[go-fast-to-stay-authentic.jpeg|400]]
+>
+> If you're building a product, there are lots of reasons to go fast. It's cheaper. You get to market sooner. If you're off course, you might find out before it's too late.
+>
+> But last week I was reminded of what might be the most important reason to go fast: Going fast prevents you from second-guessing. Speed keeps you authentic. If you've got a weird, opinionated, crazy, possibly-stupid-possibly-great plan, and you take a long time to think it through, revise it, and make it perfect, you water down and wash out the goodness.
+>
+> My realization came from Jason Fried, who has been an inspiration to me for over a decade, and who I got to [interview](https://soundcloud.com/ajsmartdesign/x-jason-fried-gives-us-savage-product-advice) on a podcast. Jason talked a lot about how they use speed at Basecamp, like their famous [6-week cycles](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae). He talked about how he uses speed when he writes on Medium: every [post](https://medium.com/@jasonfried) in 15–20 minutes, holy jeez.
+>
+> When you move that fast, sometimes you're wrong. But you don't waste time watering things down.
+>
+> I'm not (only) parroting Jason here. I've seen the speed-keeps-you-authentic effect in design sprints. Without time to equivocate, the solutions are better. And I've had the painful first-hand experience of wavering, redoing, redoing, redoing, and forgetting the point.
+>
+> Right now I'm recommitting to speed. If you're writing, there are lots of reasons to go fast. You won't lose your nerve. You won't lose your inspiration. You won't edit yourself to death.
+>
+> For the next few weeks, I'll imitate Jason and go fast to stay authentic with my Medium posts… I have a hundred ideas I don't have time to write properly and preciously, but I do have 15 minutes.
+>
+> Let's see if this headline is true.
+>
+> Listen to the interview [here](https://soundcloud.com/ajsmartdesign/x-jason-fried-gives-us-savage-product-advice) or subscribe wherever you listen to podcasts.
